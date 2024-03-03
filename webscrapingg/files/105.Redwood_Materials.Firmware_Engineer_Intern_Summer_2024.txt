@@ -1,0 +1,42 @@
+Redwood_Materials: Firmware_Engineer_Intern_Summer_2024  ------- 31-Jan
+ 
+Company Overview Redwood's mission is to build a circular supply chain to power a sustainable world and accelerate the reduction of fossil fuels. The company is localizing a global supply battery chain and producing anode and cathode components in the U. S. for the first time, while also reducing environmental impact, cost, and supply chain risks.
+---------------------- 
+Company Stage Series D Total Funding $3.8 B Founded2017 Headquarters Carson City, Nevada
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 14%1 year growth↑ 32%2 year growth↑ 250%
+---------------------- 
+Requirements Student in electrical engineering or computer science Coursework and/or experience with C/ C++ programming Experience or coursework with embedded software design, development and testing using tools like Python
+---------------------- 
+Responsibilities Work with software design, development and testing for medium-to-high volume industrial applications Collaborate with the team, leveraging communication interfaces like I2 C, S P I, and U A R T Understanding operating systems and functionality
+---------------------- 
+Desired Qualifications Excellent written, verbal communication, and collaboration skills Documentation practice A passion for sustainability and making the world a better place
+---------------------- 
+About Redwood Materials
+ Redwood Materials was founded in 2017 to create a circular supply chain for electric vehicles and clean energy products, making them more sustainable and driving down the cost for batteries. We’re doing this by developing and deploying new technologies to increase the scope and scale of recycled and sustainable materials in the global battery supply chain.
+
+
+
+ Firmware Engineering Intern/ Co-op
+ We are seeking a Firmware Engineering intern or co-op to work with a team of electrical and embedded software engineers to help develop new products. You will work on code for products that use A R M M4 and higher M C Us, with development being on bare metal, R T O S, and/or embedded Linux systems.
+ Responsibilities will include:
+
+ Work with software design, development and testing for medium-to-high volume industrial applications.
+ Collaborate with the team, leveraging communication interfaces like I2 C, S P I, and U A R T.
+ Understanding operating systems and functionality.
+
+ Desired Qualifications
+
+ Student in electrical engineering or computer science.
+ Coursework and/or experience with C/ C++ programming.
+ Experience or coursework with embedded software design, development and testing using tools like Python.
+ Excellent written, verbal communication, and collaboration skills. 
+ Documentation practice.
+ A passion for sustainability and making the world a better place!
+
+ This position may be arranged as either an Internship or a Co-op, depending on the candidate. Details:
+ Internship - Summer 2024 (12 weeks).
+ Co-op - Ranging from 4-9 months in duration.
+ This position is located in the Reno, Nevada area. The position is full-time. Compensation will be commensurate with experience.
+ We collect personal information ( P I) from you in connection with your application for employment with Redwood Materials, including the following categories of P I: identifiers, personal records, professional or employment information, and inferences drawn from your P I. We collect your P I for our purposes, including performing services and operations related to your potential employment. If you have additional privacy-related questions, please contact us at [email protected].
+---------------------- 

@@ -1,0 +1,51 @@
+Addepar: Software_Engineer_Intern_Platform_Services_US  ------- 25-Jan
+ 
+Company Overview Addepar's mission is to create a more transparent financial system. The company provides wealth managers with real-time portfolio reporting and insights required to make and implement better investment decisions. By helping people achieve the best possible outcomes, Addepar aims to get more assets flowing into more impactful investments and ideas, benefiting our society as a whole.
+---------------------- 
+Company Stage Series F Total Funding $1.6 B Founded2009 Headquarters Mountain View, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 10%2 year growth↑ 37%
+---------------------- 
+Requirements Currently enrolled in a post-secondary educational institution in the U S & Canada Available to intern for the full 12 weeks Working toward a B S/ M S in Computer Science, Statistics, Mathematics, or other quantitative field Excellent written and verbal communication skills Ability to work and learn independently Outstanding talent in software engineering
+---------------------- 
+Responsibilities Own features, work alongside and learn from senior engineers, and ship code Learn and demonstrate engineering best practices and principles Document software functionality, system design, and project plans Produce a retrospective and demonstrate your summer project to an internal audience
+---------------------- 
+Desired Qualifications Experience with Java-based data management platform Familiarity with real-time analyses and calculations on financial data Experience with microservices and data infrastructure
+---------------------- 
+Who We Are
+ Addepar is a global technology and data company that helps investment professionals provide the most informed, precise guidance for their clients. Hundreds of thousands of users have trusted Addepar to empower smarter investment decisions and better advice over the last decade. With client presence in more than 40 countries, Addepar’s platform aggregates portfolio, market and client data for over $5 trillion in assets. Addepar’s open platform integrates with more than 100 software, data and services partners to deliver a complete solution for a wide range of firms and use cases. Addepar embraces a global flexible workforce model with offices in Silicon Valley, New York City, Salt Lake City, Chicago, London, Dublin, Edinburgh, Scotland and Pune, India.
+* Marketplace and brokerage services provided by Acervus Securities, Inc., an S E C registered broker‑dealer and member F I N R A / S I P C. Being a part of the Adde U Internship Program, you will be working on meaningful project(s) that you can feel proud of and present back to the company at the end of the experience. In addition to having a supporting manager and mentor, we have a fantastic onboarding program to get you acclimated and ready for your time with us. Fun events and super cool swag are also included!
+ At the moment, our 12-week internship experience is remote. Dates are currently set for May - August 2024 but please consult with your recruiter. Seeking U S and Canadian students only.
+ The Role
+ We are currently seeking a Software Engineering Intern. The Platform Services team is responsible for ancillary microservices used by Addepar’s various products. As a part of the Investment Data Platform, we are also hard at work scaling Addepar’s core, Java-based data management platform. This platform allows our clients to perform real-time analyses and calculations on our terabytes (and growing daily!) of financial data. You will work alongside our team and help us enhance our microservices and data infrastructure.
+ Addepar takes a market-based approach to pay. A successful candidate’s starting pay will be determined based on the role, job-related skills, experience, qualifications, work location, and market conditions. The range displayed on each job posting reflects the minimum and maximum target base salary for roles in Colorado, California, and New York.
+ The current range for this role is $34 - $53.
+ Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Additionally, these ranges reflect the base salary only, and do not include bonus, equity, or benefits.
+ What You’ll Do
+
+ Own features, work alongside and learn from senior engineers, and ship code.
+ Learn and demonstrate engineering best practices and principles.
+ Document software functionality, system design, and project plans; this includes clean, readable code with comments.
+ Produce a retrospective and demonstrate your summer project to an internal audience.
+
+ Who You Are 
+
+ Must be currently enrolled in a post-secondary educational institution (university must be located in the U S & Canada) & must be returning to school after internship
+ Available to intern for the full 12 weeks
+ A student working toward a B S/ M S in Computer Science, Statistics, Mathematics, or other quantitative field
+ Excellent written and verbal communication skills.
+ Ability to work and learn independently
+ Outstanding talent in software engineering. Ability to write high quality object oriented code.
+ Our Values 
+
+ Act Like an Owner - Think and operate with intention, purpose and care. Own outcomes.
+ Build Together - Collaborate to unlock the best solutions. Deliver lasting value. 
+ Champion Our Clients - Exceed client expectations. Our clients’ success is our success. 
+ Drive Innovation - Be bold and unconstrained in problem solving. Transform the industry. 
+ Embrace Learning - Engage our community to broaden our perspective. Bring a growth mindset. 
+
+ In addition to our core values, Addepar is proud to be an equal opportunity employer. We seek to bring together diverse ideas, experiences, skill sets, perspectives, backgrounds and identities to drive innovative solutions. We commit to promoting a welcoming environment where inclusion and belonging are held as a shared responsibility.
+ To ensure the health and safety of all Addepeeps and our prospective candidates, we have instituted a virtual interview and onboarding experience.
+ We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+ P H I S H I N G S C A M W A R N I N G: Addepar is among several companies recently made aware of a phishing scam involving con artists posing as hiring managers recruiting via email, text and social media. The imposters are creating misleading email accounts, conducting remote “interviews,” and making fake job offers in order to collect personal and financial information from unsuspecting individuals. Please be aware that no job offers will be made from Addepar without a formal interview process. Additionally, Addepar will not ask you to purchase equipment or supplies as part of your onboarding process. If you have any questions, please reach out to [email protected].
+---------------------- 

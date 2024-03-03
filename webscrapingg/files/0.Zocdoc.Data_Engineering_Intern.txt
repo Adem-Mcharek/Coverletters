@@ -1,0 +1,51 @@
+Zocdoc: Data_Engineering_Intern  ------- 7-Feb
+ 
+Company Overview Zocdoc is a leading healthcare tech company that prioritizes patient empowerment, offering a seamless online platform for finding in-network doctors, booking appointments, and accessing reviews. The company's competitive edge lies in its user-friendly interface, comprehensive services, and commitment to personalized care, as evidenced by their doctors' attentive approach to patient history and preventative plans. With its robust online presence across the United States, Zocdoc is redefining the healthcare experience by making it more accessible and patient-centered.
+---------------------- 
+Company Stage Later Stage V C Total Funding $426.8 M Founded2007 Headquarters New York, New York
+---------------------- 
+Growth & Insights Headcount6 month growth↓ -1%1 year growth↑ 0%2 year growth↑ 37%
+---------------------- 
+Requirements Strong foundation in computer science fundamentals Experience in scripting and programming for data processing Proficiency in languages such as Python, S Q L, or Scala Exceptional communication skills Passion for data engineering
+---------------------- 
+Responsibilities Learning data engineering best practices Getting acquainted with data stack and technologies like Python, S Q L, Parquet, Delta, Snowflake, Apache Spark, Databricks, A W S D M S, S3, S N S/ S Q S, E C S, and Lambdas Developing and optimizing data pipelines and architectures Collaborating with data end-users to understand their needs and challenges Presenting summer project to technology and leadership team
+---------------------- 
+Desired Qualifications Continuous drive to learn and grow in the field of data engineering
+---------------------- 
+Our Mission
+ Healthcare should work for patients, but it doesn’t. In their time of need, they call down outdated insurance directories. Then wait on hold. Then wait weeks for the privilege of a visit. Then wait in a room solely designed for waiting. Then wait for a surprise bill. In any other consumer industry, the companies delivering such a poor customer experience would not survive. But in healthcare, patients lack market power. Which means they are expected to accept the unacceptable.
+ Zocdoc’s mission is to give power to the patient. To do that, we’ve built the leading healthcare marketplace that makes it easy to find and book in-person or virtual care in all 50 states, across +200 specialties and +12k insurance plans. By giving patients the ability to see and choose, we give them power. In doing so, we can make healthcare work like every other consumer sector, where businesses compete for customers, not the other way around. In time, this will drive quality up and prices down. 
+ We’re 15 years old and the leader in our space, but we are still just getting started. If you like solving important, complex problems alongside deeply thoughtful, driven, and collaborative teammates, read on.
+ Your Impact on our Mission:
+ Zocdoc is living our value of Together not Alone as we host our annual Zintern Data Engineering Program.  Our Zinternship is a longstanding program where we provide emerging technologists with mentorship, real project work, and the opportunity to give power back to the patient!  Some of our best employees are former Zinterns, and you’ll have the opportunity to learn and work alongside them.  
+ Passionate about the intersection of technology and healthcare? Apply today!
+ What to Expect...
+
+ Before you start you’ll be linked up for an intro call with members of the Zintnership committee, our recruiting team, and your fellow Zinterns.  We want you coming in comfortable and excited!
+ You’ll kick off your summer by attending Zoc U. Zoc U is a week long immersive engineering class where you will be introduced to commonly used technologies and Zocdoc’s internal tooling
+ You’ll learn data engineering best practices, such as how to manage and process large data sets, implement data pipelines in a C I environment, and ensure data integrity and reliability with industry-standard tools and frameworks.
+ You’ll get acquainted with our data stack, exploring technologies like Python and S Q L, data lake file systems, such as Parquet and Delta and familiarizing yourself with big data tools like Snowflake, Apache Spark, Databricks, as well as cloud computing services like A W S D M S, S3, S N S/ S Q S, E C S and Lambdas for data processing and storage.
+ In addition to working in a real production environment, you’ll be assigned a data-centric project. This project will benefit Zocdoc while providing you with a hands-on, immersive educational experience.
+ You’ll be involved in developing and optimizing data pipelines and architectures, working on projects that have a tangible impact and align with your interests (such as improving data ingestion and processing workflows or enhancing our data analytics capabilities).
+ Collaborate closely with data end-users, such as teams in product and commercial analytics, to understand their needs and challenges. Partner with analytics engineers to create meaningful end-to-end data pipelines that deliver actionable insights and drive business decisions.
+ You’ll cap off your Zinternship by presenting your summer project to our entire technology and leadership team at the end of your internship (when your internship is sadly wrapping up)
+
+ You’ll be successful in this role if you have…     
+
+ A strong foundation in computer science fundamentals, such as data structures and algorithms, with the capability to apply these concepts in practical data engineering scenarios.
+ Experience in scripting and programming for data processing, with proficiency in languages such as Python, S Q L, or Scala. While the specific language isn’t as important, your ability to write efficient, clean code for data manipulation is key.
+ A keen interest in diving deep into Zocdoc’s data technology stack, solving complex data problems on a daily basis, and a continuous drive to learn and grow in the field of data engineering.
+ Exceptional communication skills, enabling you to effectively articulate the intricacies of your data pipelines, transformations, and architecture decisions to your team members, including both technical and non-technical stakeholders.
+ A strong passion for data engineering, along with an enthusiasm for contributing to a product that is making significant strides in revolutionizing healthcare through data-driven insights and solutions.
+
+ What you’ll receive from us...  
+
+ A mentor who will help you hone your engineering skills, provide you with constructive feedback and guide you to optimizing your internship
+ A competitive compensation package 
+ Applicable reading materials & a package of custom Zocdoc branded swag
+ Engaging and fun team events where you will build relationships with your peers 
+ Potential for full time employment post-graduation based on excellent internship performance
+ Zocdoc is committed to fair and equitable compensation practices. Salary ranges are determined through alignment with market data. Base salary offered is determined by a number of factors including the candidate’s experience, qualifications, and skills. Certain positions are also eligible for variable pay and/or equity; your recruiter will discuss the full compensation package details. N Y C Base Salary Range $85,000— $85,000 U S D About us Zocdoc is the country’s leading digital health marketplace that helps patients easily find and book the care they need. Each month, millions of patients use our free service to find nearby, in-network providers, compare choices based on verified patient reviews, and instantly book in-person or video visits online. Providers participate in Zocdoc’s Marketplace to reach new patients to grow their practice, fill their last-minute openings, and deliver a better healthcare experience. Founded in 2007 with a mission to give power to the patient, our work each day in pursuit of that mission is guided by our six core values. Zocdoc is a private company backed by some of the world’s leading investors, and we believe we’re still only scratching the surface of what we plan to accomplish. 
+ Zocdoc is a mission-driven organization dedicated to building teams as diverse as the patients and providers we aim to serve. In the spirit of one of our core values - Together, Not Alone, we are a company that prides itself on being highly collaborative, and we believe that diverse perspectives, experiences and contributors make our community and our platform better.  We’re an equal opportunity employer committed to providing employees with a work environment free of discrimination and harassment. Applicants are considered for employment regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity, gender expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or any other class protected by applicable laws. Job Applicant Privacy Notice
+
+---------------------- 

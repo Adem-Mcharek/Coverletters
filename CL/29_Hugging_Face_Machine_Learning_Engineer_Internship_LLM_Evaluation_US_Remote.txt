@@ -1,0 +1,38 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the information from the resume and job listing, here's a tailored cover letter for Adem Mcharek applying for the Machine Learning Engineer Internship at Hugging Face focused on LLM Evaluation:
+
+---
+
+**Adem Mcharek**  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+linkedin.com/in/adem-mcharek  
+github.com/adem-mcharek  
+
+[Date]
+
+Hiring Manager  
+Hugging Face  
+Paris, France  
+
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Machine Learning Engineer Internship focusing on LLM Evaluation at Hugging Face, which I learned about through an online job listing. Your commitment to shaping the future of artificial intelligence through collaboration and the open-source community resonates with my academic background and project experiences. I am particularly drawn to this internship due to its emphasis on contributing towards making Machine Learning more accessible and the evaluation process more transparent, fair, and reproducible. 
+
+Throughout my academic studies at Long Island University pursuing a Bachelor's degree in Artificial Intelligence, I have maintained a Cumulative GPA of 3.88/4.00, highlighting my dedication and capability to excel in a challenging environment. My coursework in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Data Mining** has provided me with a solid foundation in the key principles and techniques used in the field today. Notably, my projects, such as the **AI Research Assistant** using AUTOGEN's multi-agent system and a **PyTorch CNN for MNIST** classification, showcase my proficiency in **implementing AI solutions** and **working with datasets**, directly aligning with the responsibilities outlined for this role.
+
+My experience in developing a hand gesture recognition system using TensorFlow and a web app for real-time fruit detection underscores my **ability to implement innovative machine learning models** and **interact with frontend applications**. These projects not only exemplify my technical expertise but also my passion for applying machine learning to solve real-world problems. Furthermore, as the Founder and President of the AI Club at LIU Brooklyn, I have honed my skills in **community interactions** and **fostering discussions**, which I believe are crucial for contributing to Hugging Face's communal learning environment.
+
+I am enthusiastic about the potential to contribute to the 'Open LLM Leaderboard' at Hugging Face and collaborate with a vibrant community of ML professionals. I am available to start this internship remotely, as per the requirements, and can be contacted at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. In the subsequent week, I will follow up to inquire about the possibility of discussing my application in more detail.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to Hugging Face's mission of advancing good Machine Learning and eagerly await the chance to bring my blend of skills and passion for ML to your team.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+This cover letter incorporates the specified structure, emphasizes the relevant skills and achievements from the resume, and tailors them to the job requirements listed by Hugging Face【9†source】【11†source】.-------/n

@@ -1,0 +1,40 @@
+Seismic: Data_Science_Machine_Learning_Engineer_Intern_Summer_2024  ------- 24-Jan
+ 
+Company Overview Seismic helps marketing and sales teams fulfill their promise to drive revenue together.
+---------------------- 
+Company Stage N/ A Total Funding $748.6 M Founded2010 Headquarters San Diego, California
+---------------------- 
+Growth & Insights Headcount6 month growth↓ -2%1 year growth↓ -4%2 year growth↓ -1%
+---------------------- 
+Requirements Graduating from a S T E M program in Machine Learning, A I, Data Science, or Computer Science in Spring 2025 Excellent interpersonal skills, strong partnership and collaboration skills High energy, enthusiasm, and ambition to grow in your career Good organizational skills and attention to detail Understanding of wide range of technologies in A I, Generative A I, data science, Computer vision, N L P, Python libraries, M L cloud services, and data tools
+---------------------- 
+Responsibilities Develop, deploy and optimize models to enable A I capabilities and improve user experience Collaborate with a team of Machine learning, software and product experts to bring your model from idea to the product through micro-service-based systems Work in an Enterprise Saa S platform in an Agile, cloud-based environment, and follow and ensure best engineering practices Utilize and be exposed to a wide range of cutting edge technologies such as: Front end: React, Typescripts, Graph Q L, Java Script; Back End: C#/. N E T, Python, Kubernetes, Docker, Apache Kafka; Cloud: Azure, A W S, Google Cloud, I B M; Dev Ops: Terraform, Kubernetes, Ansible, Jenkins, Python; A I/ M L: L L Ms ( Azure, Google, etc.), Vertext A I, Azure A I, I B M watsonx, huggingface, open source models
+---------------------- 
+Please be aware we have noticed an increase in hiring scams potentially targeting Seismic candidates. Read our full statement on our Career’s page.
+ Seismic, a rapidly growing Forbes Cloud 100 company, is the global leader in enablement, helping make sales teams better by becoming more productive and engaging with buyers in a compelling way. Seismic’s platform provides continuous guidance to improve behavior, content, and skills to win more deals and deliver better experiences. Nearly 2,000 organizations including I B M and American Express have made Seismic their enablement platform of choice. Seismic integrates with business-critical platforms including Microsoft, Salesforce, Google and Adobe. Seismic is headquartered in San Diego, with offices across North America, Europe, Australia and China.
+ Seismic is committed to building an inclusive workplace that ignites growth for our employees and creates a culture of belonging that allows all employees to be seen and valued for who they are. Learn more about D E I at Seismic here. Seismic is looking for Machine Learning Engineer and Data Science interns to join our Engineering team! If you’re working toward a career in building products in Machine Learning and A I software development post grad, Seismic has an opportunity to introduce you to the fast paced, innovative world of Enterprise Saa S product development. We pride ourselves on our knowledge sharing focused environment and work in highly collaborative and cross-functional teams. In partnership with your mentor and team, you’ll be building solutions that will drive direct business impact and shape our long-term technical vision with a high-quality bar. We’re looking for hard-working individuals with an academic focus on Machine learning, Data Science and software engineering to join the Product & Engineering team for 12 weeks this summer.  
+ Taking pride in our knowledge sharing focused environment, we work in highly collaborative and cross-functional teams. As an intern, you’ll partner with your mentor and team to build solutions that drive direct business impact and shape our long-term technical vision (with a high-quality bar).
+ This is a hybrid experience with an expectation that you can commute to our San Diego office up to two days a week. Please note that if you are not based in San Diego year-round, Seismic is unable to cover housing expenses during the Summer Internship Program.
+ What you will be doing: 
+
+ Develop, deploy and optimize models to enable A I capabilities and improve user experience
+ Collaborate with a team of Machine learning, software and product experts to bring your model from idea to the product through micro-service-based systems
+ Work in an Enterprise Saa S platform in an Agile, cloud-based environment, and follow and ensure best engineering practices
+ Utilize and be exposed toa wide range of cutting edge technologies such as: 
+ Front end: React, Typescripts, Graph Q L, Java Script
+ Back End: C#/. N E T, Python, Kubernetes, Docker, Apache Kafka
+ Cloud: Azure, A W S, Google Cloud, I B M
+ Dev Ops: Terraform, Kubernetes, Ansible, Jenkins, Python 
+ A I/ M L: L L Ms ( Azure, Google, etc.),  Vertext A I, Azure A I, I B M watsonx, huggingface, open source models
+
+ What you bring to the team:  
+
+ Graduating from a S T E M program in Machine Learning, A I, Data Science, or Computer Science in Spring 2025
+ Excellent interpersonal skills, strong partnership and collaboration skills, along with a desire to both learn and teach 
+ High energy, enthusiasm, and ambition to grow in your career 
+ Good organizational skills and attention to detail
+ Understanding of wide range of technologies in A I, Generative A I, data science, Computer vision, N L P, Python libraries, M L cloud services, and data tools
+ Headquartered in San Diego and with employees across the globe, Seismic is the global leader in sales enablement, backed by firms such as Permira, Ameriprise Financial, E D B I, Lightspeed Venture Partners, and T. Rowe Price. Seismic also recently expanded its team and product portfolio with the acquisition of Percolate, Grapevine6, and Lessonly. Our board of directors is composed of several industry luminaries including John Thompson, former Chairman of the Board for Microsoft.
+ Seismic is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to gender, age, race, religion, or any other classification which is protected by applicable law. 
+ Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+---------------------- 

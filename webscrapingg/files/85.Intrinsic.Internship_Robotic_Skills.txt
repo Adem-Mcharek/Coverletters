@@ -1,0 +1,35 @@
+Intrinsic: Internship_Robotic_Skills  ------- 1-Feb
+ 
+Company Overview Intrinsic, an Alphabet subsidiary, is a robotics software and A I company that aims to democratize industrial robotics, making it accessible to a wider range of businesses, entrepreneurs, and developers. The company's culture is characterized by a multidisciplinary team of engineers, roboticists, designers, and technologists who are dedicated to unlocking the creative and economic potential of industrial robotics. Intrinsic's competitive advantage lies in its holistic platform approach, which simplifies the integration of various hardware and software, connects businesses with solution designers, and expands the automation ecosystem, all while adhering to open interfaces and established industry standards.
+---------------------- 
+Company Stage N/ A Total Funding N/ A Founded2021 Headquarters Mountain View, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 2%1 year growth↓ -1%2 year growth↑ 31%
+---------------------- 
+Requirements Bachelor’s student in Robotics, Computer Science, or related field ( Master's students preferred) Excellent written communication skills, especially in example-driven developer documentation Experience with and broad understanding of modern approaches to industrial robotic automation Proficiency in modern software development languages, including C++ and Python Interest in and ability to build tools and intuitive interfaces for development of diverse robotic capabilities Enthusiasm for solving challenging problems in full-stack software, artificial intelligence, and robotics
+---------------------- 
+Responsibilities Build a community of developers that will create and share the next generation of robotic capabilities together Ground the platform in real-world, end-to-end robotic applications that integrate robotic hardware in an industrial setting Contribute toward development of intuitive tools and interfaces for developers, including programming in C++ and Python Collaborate with a team of experienced professionals in modern software development practices Coordinate software development efforts across cross-functional and cross-geographical teams
+---------------------- 
+Intrinsic is Alphabet’s bet aiming to reimagine the potential of industrial robotics. Our team believes that advances in A I, perception and simulation will redefine what’s possible for industrial robotics in the near future – with software and data at the core. 
+ Our mission is to make industrial robotics intelligent, accessible, and usable for millions more businesses, entrepreneurs, and developers. We are a dynamic team of engineers, roboticists, designers, and technologists who are passionate about unlocking the creative and economic potential of industrial robotics. Role
+ Are you passionate about making cutting-edge robotic capabilities accessible to everyone? We are seeking highly motivated and talented interns to join our team and contribute to the advancement of robotics in an exciting internship opportunity.
+ In particular, we seek a technically strong intern with excellent communication skills to design and build a guide for developers who wish to contribute new robotic capabilities to our platform. The guide should be driven by examples from real-world use cases, so we are particularly interested in candidates with broad experience in the space of contemporary automation (perception, motion and task planning, hardware, communication protocols and paradigms, etc.). There may additionally be opportunities to contribute to development of the platform itself.
+ How your work moves the mission forward
+
+ Build a community of developers that will create and share the next generation of robotic capabilities together.
+ Ground our platform in real-world, end-to-end robotic applications that integrate robotic hardware in an industrial setting.
+ Contribute toward development of intuitive tools and interfaces for developers, including programming in C++ and Python.
+ Collaborate with a team of experienced professionals in modern software development practices.
+ Coordinate software development efforts across cross-functional and cross-geographical teams.
+
+ Skills you will need to be successful
+
+ Bachelor’s student in Robotics, Computer Science, or related field ( Master’s students preferred)
+ Excellent written communication skills, especially in example-driven developer documentation
+ Experience with and broad understanding of modern approaches to industrial robotic automation
+ Proficiency in modern software development languages, including C++ and Python
+ Interest in and ability to build tools and intuitive interfaces for development of diverse robotic capabilities
+ Enthusiasm for solving challenging problems in full-stack software, artificial intelligence, and robotics
+ At Intrinsic, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. We are proud to be an equal opportunity workplace and an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please contact us at: [email protected].
+---------------------- 

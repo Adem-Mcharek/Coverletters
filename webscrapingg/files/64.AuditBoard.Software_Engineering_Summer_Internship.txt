@@ -1,0 +1,60 @@
+AuditBoard: Software_Engineering_Summer_Internship  ------- 5-Feb
+ 
+Company Overview Audit Board stands out as a leading workplace due to its commitment to fostering a modern, interconnected platform that actively involves all team members in managing audit, risk, and compliance. The company's competitive advantage lies in its ability to anticipate and adapt to the ever-evolving risk landscape, thereby facilitating superior strategic decision-making. Its industry leadership is evident in its unique approach to seamlessly connect teams, stakeholders, data, and processes, enabling it to stay ahead of increasing risk demands.
+---------------------- 
+Company Stage Series B Total Funding $76.3 M Founded2014 Headquarters Cerritos, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 3%1 year growth↑ 19%2 year growth↑ 92%
+---------------------- 
+Requirements Pursuing a B S in Computer Science or related technical field Expected graduation date 2025-2026 Good academic standing Demonstrable experience with computer science principles and concepts Prior academic or internship experience with Java Script, Python, or Go Ability to work 40 hours a week Eligible to work in the U S without any sponsorship
+---------------------- 
+Responsibilities Work on engineering projects Learn about the many roles software engineers play Get hands-on experience with open source, build cloud infrastructure, and explore practical applications of artificial intelligence Participate in onboarding and team membership during the program
+---------------------- 
+Desired Qualifications Experience with Ember or React frameworks Experience with L L M, machine learning, data analytics and visualization Experience with Git, cloud infrastructure, U I prototyping and design, Agile methodologies, test or security engineering
+---------------------- 
+Who We Are
+ Having surpassed $150 M A R R and continuing to grow rapidly, Audit Board is the leading audit, risk, and compliance platform on the market. More than 40% of the Fortune 500, including 6 of the Fortune 10, leverage our award-winning technology to move their businesses forward with greater clarity and agility. And our customers love us: Audit Board is top-rated on G2.com and Gartner Peer Insights.
+ At Audit Board we inspire each other to innovate and are proud of what we are producing. We spend each day thinking of new ways to help our customers and contribute to the greater good of our company and our surrounding communities. We are all about assisting each other and breaking through barriers to create the most loved audit, risk, and compliance platform by our customers. This is how we have become one of the 500 fastest-growing tech companies in North America for the fourth year in a row as ranked by Deloitte!  Why an Audit Board Internship Matters
+ Undergraduate computer science programs teach the academic foundations to succeed in the technology industry, but a good internship teaches the fundamentals of software engineering, a practical set of skills that help students succeed after graduation. As a fast-growth, pre- I P O enterprise software-as-a-service company, Audit Board is a place where every software engineer matters, and an intern can significantly impact the company’s long-term success. 
+ Why This Role is Exciting
+ As a participant of our summer internship program, you will work on engineering projects that matter, learn about the many roles software engineers play beyond theoretical optimizations, get hands-on experience with open source, build cloud infrastructure, and explore practical applications of artificial intelligence, all under the guidance of engineering mentors who are there to help you learn and have an impact. 
+ Audit Board internships are remote-first and include onboarding and team membership during the program. Audit Board is based in Cerritos, California, and interns based near our headquarters may have additional opportunities to meet with their teams and partners in person.
+ Who You Are
+
+ Pursuing a B S in Computer Science or related technical field, with an expected graduation date 2025-2026 and in good academic standing
+ Demonstrable experience with computer science principles and concepts, measured via Hacker Rank
+ Prior academic or internship experience with Java Script, Python, or Go
+ Ability to work 40 hours a week 
+ Committed to the work duration of the internship - Continuous participation is essential for the full learning experience and project momentum
+ Eligible to work in the U S without any sponsorship
+
+ Preferred Qualifications
+ One or more of the following prior areas of experience:
+
+ Ember or React frameworks
+ L L M, machine learning, data analytics and visualization
+ Git, cloud infrastructure
+ U I prototyping and design
+ Agile methodologies
+ Test or security engineering
+
+ Perks*
+ 
+
+ Launch a career at one of the fastest-growing Saa S companies in North America!
+ Live your best life ( L Y B L)! $200/mo for anything that enhances your life
+ Remote and hybrid work options, plus lunch in the office
+ Comprehensive employee health coverage (all locations)
+401 K with match ( U S) or pension with match ( U K)
+ Competitive compensation & bonus program
+ Flexible Vacation ( U S exempt & C A) or 25 days ( U K)
+ Time off for your birthday & volunteering
+ Unlimited access to Linked In Learning
+ Employee resource groups
+ Stock options
+ Opportunities for team and company-wide get togethers!
+
+*perks may vary based on eligibility
+# L I- Remote
+
+---------------------- 

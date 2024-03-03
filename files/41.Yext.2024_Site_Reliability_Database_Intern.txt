@@ -1,0 +1,48 @@
+Yext: 2024_Site_Reliability_Database_Intern  ------- 18-Jan
+ 
+Company Overview Yext's mission is to transform the enterprise with A I search. The company offers a modern, A I-powered Answers Platform that understands natural language so that when people ask questions about a business online they get direct answers – not links.
+---------------------- 
+Company Stage Series F Total Funding $117.6 M Founded2006 Headquarters New York, New York
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 17%1 year growth↑ 16%2 year growth↑ 14%
+---------------------- 
+Requirements Pursuing a degree in Computer Science, Engineering, or a related technical field Basic knowledge of relational databases Basic experience in S Q L programming, systems architecture, schemas Experience installing and setting up databases Experience with database Monitoring and Diagnostic Linux administration including scripting (bash/python) Experience with source control tools git/ Gerrit
+---------------------- 
+Responsibilities Identify, design, and implement internal process improvements Perform database installation/upgrades in dev environments Develop and improve backup and recovery automation, ensuring database availability Develop and maintain database maintenance plans Proactively monitor and respond to database alerts Assist in refining a physical design to meet system storage and performance requirements Assist in developing database structures that fit into the overall architecture of the system under development Create and maintain database documentation as required
+---------------------- 
+Desired Qualifications Knowledge of automation tools such as Ansible and Terraform Some experience working with C I/ C D ( Jenkins, Team City) Some knowledge of programming languages like ( Java, Go, Ruby, C)
+---------------------- 
+Yext ( N Y S E: Y E X T) is the leading digital presence platform for multi-location brands, with thousands of customers worldwide. With one central platform, brands can seamlessly deliver consistent, accurate, and engaging experiences and meaningfully connect with customers anywhere in the digital world. Our A I and machine learning technology powers the knowledge behind every customer engagement, which is only possible through our team of innovators and enthusiastic collaborators. Join us and experience firsthand why we are consistently recognized as a ‘ Best Place to Work’ globally by industry leaders such as Built In, Fortune, and Great Place To Work®! To get the best candidate experience, please consider applying for a maximum of 2 roles within 12 months to ensure you are not duplicating efforts.
+ We are looking for a Database Reliability Engineer Intern to join our Infrastructure Team.  Databases are a core technology underlying the Yext platform.  We’re seeking a highly motivated database engineer to assist in expanding our database environment to suit the company’s rapid growth. What You’ll Do
+
+ Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+ Perform database installation/upgrades in dev environments
+ Develop and improve backup and recovery automation, ensuring database availability
+ Develop and maintain database maintenance plans
+ Proactively monitor and respond to database alerts
+ Assist in refining a physical design to meet system storage and performance requirements
+ Assist in developing database structures that fit into the overall architecture of the system under development
+ Create and maintain database documentation as required
+
+ What You Have
+
+ Pursuing a degree in Computer Science, Engineering, or a related technical field, graduating between December 2024 and August 2025
+ A relentless passion for learning and technology
+ Basic knowledge of relational databases
+ Basic experience in S Q L programming, systems architecture, schemas
+ Experience installing and setting up databases
+ Experience with database Monitoring and Diagnostic
+ Knowledge of database replication, backup, and restore
+ Some experience writing software that utilizes databases
+ Linux administration including scripting (bash/python)
+ Experience with source control tools git/ Gerrit
+
+ Bonus Points
+
+ Knowledge of automation tools such as Ansible and Terraform
+ Some experience working with C I/ C D ( Jenkins, Team City)
+ Some knowledge of programming languages like ( Java, Go, Ruby, C)
+
+# L I- C H1
+ The hourly salary at the time of hire for this position is expected to be $50/hour. Pay rates at Yext are established based on an analysis of salaries for positions with a similar level of accountability and impact in the relevant labor market. Salary levels are expected to change to reflect an employee’s job performance (results and impact) over time. Salaries at the time of hire are typically offered in the lower to middle of the above-referenced range in order to provide the opportunity to reflect performance-based increases over time. In addition to base salaries, employees at Yext are typically eligible for a comprehensive package of benefits, and successful candidates may also be eligible for equity (stock) based compensation and/or variable pay programs based on performance relative to goals and targets. Yext is committed to building an inclusive and diverse culture where every person is seen, heard, and valued. We believe in equal employment opportunity and welcome employees and applicants of all races, colors, ethnicities, religions, creeds, national origins, ancestries, genetics, sexes, pregnancy or childbirth, sexual orientations, genders (including gender identity or nonbinary or nonconformity and/or status as a trans individual), ages, physical or mental disabilities, citizenships, marital, parental and/or familial status, past, current or prospective service in the uniformed services, or any characteristic protected under applicable law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. It is Yext’s policy to provide reasonable accommodations to people with disabilities as required by law. If you have a disability that requires an accommodation in completing this application, interviewing, or participating in the employee selection process, please complete this form.
+---------------------- 

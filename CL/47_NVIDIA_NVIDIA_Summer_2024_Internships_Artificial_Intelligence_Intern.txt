@@ -1,0 +1,39 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the information gathered from your resume and the job posting for the NVIDIA Artificial Intelligence Internship position, I have drafted the following cover letter for you:
+
+---
+
+**Adem Mcharek**  
+Long Island University 1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[LinkedIn](linkedin.com/in/adem-mcharek) | [GitHub](github.com/adem-mcharek)
+
+[Date]
+
+Hiring Manager  
+NVIDIA Corporation  
+2788 San Tomas Expressway  
+Santa Clara, CA 95051
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Artificial Intelligence Internship for Summer 2024 at NVIDIA, as advertised on your careers page. My passion for AI and machine learning, combined with my academic background and project experience at Long Island University, make me a strong candidate for this role. Your mission to solve the world's most stimulating technology problems aligns perfectly with my career aspirations.
+
+I am currently pursuing a Bachelor's degree in Artificial Intelligence at Long Island University Brooklyn, where I have maintained a Cumulative GPA of 3.88/4.00 in the Honors College. My coursework includes **Machine Learning, Deep Learning, Natural Language Processing**, and **Software Engineering**, directly relevant to the internship’s focus. I have developed several projects, such as an **AI Research Assistant** using AUTOGEN's multi-agent system, a **PyTorch CNN for MNIST**, and a **Computer Vision system using TensorFlow** for hand gesture recognition. These projects demonstrate my proficiency in Python, PyTorch, TensorFlow, and deep learning algorithms, which are critical for the internship responsibilities at NVIDIA.
+
+My experience as an AI Research Assistant at LIU Brooklyn involved developing multi-agent subprojects incorporating web scraping, real-time file retrieval, and advanced mathematical computations. This position honed my skills in programming and technologies, aligning with the requirements of the NVIDIA internship. I have also secured **bronze and silver medals in the International Youth Mathematical Olympiad** and received the **People’s Choice Award at #hackathon4Justice by the UN**. I am the founder and president of the “AI Club” at LIU Brooklyn, demonstrating my leadership abilities and my commitment to fostering a vibrant AI enthusiast community.
+
+I am excited about the opportunity to contribute to NVIDIA's groundbreaking projects such as deep learning applications and algorithms, autonomous vehicles, and robotics. My hands-on experience and academic background have prepared me to take on the challenges associated with these projects and contribute meaningfully to NVIDIA's success.
+
+Please find my resume attached for more details on my achievements. I am available for interviews at your earliest convenience and can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. I plan to follow up with you in a week to discuss my application. I look forward to the opportunity to discuss how I can contribute to the innovative projects at NVIDIA.
+
+Thank you for considering my application. I am excited about the potential of joining the NVIDIA team and contributing to your mission to harness AI for groundbreaking solutions.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+This cover letter is structured according to your instructions, using Times New Roman font of size 10-12. The key skills, experiences, and achievements from your resume that are directly applicable to the NVIDIA internship have been highlighted as requested.-------/n

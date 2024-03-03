@@ -1,0 +1,39 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the information from the resume and the job posting, here is a tailored cover letter for Adem Mcharek applying for the Data Science/Machine Learning Engineer Intern position at Seismic for Summer 2024:
+
+---
+
+**Adem Mcharek**  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[LinkedIn](linkedin.com/in/adem-mcharek)  
+[GitHub](github.com/adem-mcharek)
+
+**[Date]**
+
+**Hiring Manager**  
+Seismic  
+Headquarters  
+San Diego, California  
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Science/Machine Learning Engineer Intern position for Summer 2024 at Seismic, as advertised on your Careers page. With a strong academic background in Artificial Intelligence from Long Island University and hands-on experience in AI and machine learning projects, I am eager to bring my expertise to Seismic's dynamic and innovative team.
+
+During my studies, I have **excelled in courses** including Machine Learning, Deep Learning, Cloud Computing, and Natural Language Processing, achieving a **cumulative GPA of 3.88/4.00**. My proficiency in **Python libraries**, experience with **ML cloud services**, and understanding of technologies in AI and data science align perfectly with the requirements of the Seismic internship. 
+
+In my role as **AI Research Assistant at LIU Brooklyn**, I spearheaded a project utilizing AUTOGEN's multi-agent system for academic literature retrieval, which mirrors the collaborative and technology-driven environment at Seismic. I also developed a Convolutional Neural Network in PyTorch for digit classification and a hand gesture recognition system using TensorFlow, demonstrating my capability to develop, deploy, and optimize models to enable AI capabilities and improve user experience.
+
+My foundational skills are further demonstrated through my achievements, including securing awards in the International Youth Mathematical Olympiad and leading the AI Club at my university, which showcases my **leadership ability and passion for knowledge sharing**. These experiences have honed my interpersonal skills and my capability to work collaboratively in cross-functional teams, making me an excellent fit for Seismic's culture of continuous guidance and improvement.
+
+I am available for an internship from May to August 2024 and can be reached at +1 929-527-4331 or adem.mcharek@my.liu.edu. I plan to follow up next week to discuss how I can contribute to Seismic's mission of driving revenue through innovative enablement platforms. Thank you for considering my application. I look forward to the opportunity to contribute to Seismic's success.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+Please ensure to update the current date when submitting this cover letter.-------/n

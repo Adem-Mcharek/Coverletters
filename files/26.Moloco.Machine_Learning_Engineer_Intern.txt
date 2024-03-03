@@ -1,0 +1,74 @@
+Moloco: Machine_Learning_Engineer_Intern  ------- 29-Jan
+ 
+Company Overview Moloco is on a mission to make the digital economy more transparent, equitable, and profitable by making advanced machine learning accessible to companies of all sizes.
+---------------------- 
+Company Stage Series C Total Funding $529.3 M Founded2013 Headquarters Redwood City, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 5%1 year growth↑ 31%2 year growth↑ 143%
+---------------------- 
+Requirements Currently enrolled in, or recently graduated from (within the last 12-months), a Bachelor's, Master’s or Ph D program in Computer Science or a related technical field Able and willing to work from our Seattle, W A or Redwood City, C A office
+---------------------- 
+Responsibilities Conducting experiments on state-of-the-art machine learning models using Tensorflow for real world, large scale problems Constructing and enhancing data pipelines for model training and serving using Google cloud products such as Apache Beam/ Dataflow, Big Query, and Big Table Building machine learning productivity tools (e.g. model quality measurement), deploy them in Kubernetes, and help model engineers adopt them
+---------------------- 
+Desired Qualifications Strong background in data structures and algorithms Strong coding and problem solving skills Familiar with distributed systems and/or databases Fluent with at least one programming language
+---------------------- 
+About Moloco: 
+ Moloco is a machine learning company empowering organizations of all sizes to grow and unlock the full value of their unique first-party data, elevating the traditional path to performance advertising. While the largest technology companies have proven the speed and scale of ad-targeting utilizing data— the same robust performance powered by machine learning has previously been unavailable beyond their platforms. 
+ That’s where Moloco steps in. With Moloco’s powerful combination of cutting-edge machine learning technologies, we play a unique and visible role in shaping the digital economy, all while allowing companies to stay independent and scale.
+ An industry leader at the nexus of machine learning, performance marketing, and visionary product infrastructure, Moloco is advancing the advertising technology industry. We ranked #95 in the Inc. 5000 fastest-growing private companies for 2022. We ranked #91 among Deloitte’s 2021 Fast 500 and have been certified by 91% of the company via Great Places to Work. Check us out on Glassdoor and be sure to get an inside look at working at Moloco on Instagram, Twitter, and Youtube. 
+ Moloco is headquartered in Silicon Valley, with offices in San Francisco, New York, Los Angeles, Seattle, London, Berlin, Seoul, Singapore, Beijing, Gurgaon, and Tokyo. 
+ Creating a diverse workforce and a culture of inclusion and belonging is core to our existence. To reach our goals, diversity of talent and thought is a critical component to how we operate as an organization. Our workforce is our superpower, and we know that fostering a culture of inclusion, authenticity, and belonging will allow us the greatest opportunity to carry out our mission -- to empower businesses of all sizes to grow through operational machine learning.
+ Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now! The Impact You’ll Be Contributing to Moloco:
+ We are an engineering company founded by engineers. We understand the value of a strong engineering team and strive to hire only the best engineering interns.
+ We are seeking exceptional Machine Learning interns to join us in building a state-of-the-art machine learning system. Moloco’s programmatic advertising engine is powered by custom deep neural network models that handle 1 M+ Q P S at 7 ms prediction latencies. As an intern, you can expect to be a full member of the team you join and will be treated as a junior engineer, with the same expectations, project opportunities and responsibilities. Some examples of past intern projects are:
+
+ Conducting experiments on state-of-the-art machine learning models using Tensorflow for real world, large scale problems.
+ Constructing and enhancing data pipelines for model training and serving using Google cloud products such as Apache Beam/ Dataflow, Big Query, and Big Table.
+ Building machine learning productivity tools (e.g. model quality measurement), deploy them in Kubernetes, and help model engineers adopt them.
+
+ Minimum Qualifications:
+
+ Able and willing to work from our Seattle, W A or Redwood City, C A office
+ Currently enrolled in, or recently graduated from (within the last 12-months), a Bachelor’s, Master’s or Ph D program in Computer Science or a related technical field
+ Must be graduating and obtaining degree by June of 2026
+
+ Preferred Qualifications:
+
+ Strong background in data structures and algorithms.
+ Strong coding and problem solving skills.
+ Familiar with distributed systems and/or databases
+ Fluent with at least one programming language
+
+ Internships are full-time (40-hours per week) and 12-weeks in duration during the summer, between May and September 2024. Interns are expected to work in office each working day for the first two weeks, and three days per week for the remainder of the internship. Our Compensation And Benefits (for United States Residents Only)
+ In accordance with various state laws, the range provided is a reasonable estimate of the base compensation for this role. The actual amount may be higher or lower, based on non-discriminatory factors such as experience, knowledge, skills and abilities. We also offer a competitive benefits package. Base Compensation Range: $6,000— $9,500 U S D Moloco Thrive: Benefits and Well- Being:  
+ We take care of you and create the conditions for you to do the best work of your career. Through a lens of Inclusion, we offer innovative benefits which empower our employees  to take care of themselves and their families so they can do the best work of their lives. For an overview of our global benefits, click here. 
+ Moloco Values: 
+
+
+ Lead with Humility: Everyone’s voice is respected, valued, and heard. With humility, we become more open and accessible to each other. We win, lose, and learn together. Accountability and feedback are essential to our success. 
+
+
+ Uncapped Growth Mindset: We see all situations as opportunities to learn, grow, and improve as individuals and as an organization. We seek diverse perspectives, encourage curiosity, and promote experimentation to push the boundaries of what’s possible. 
+
+
+ Create Real Value: We pursue the most impactful opportunities with rigor and integrity. We take intelligent risks and make disciplined trade-offs to maintain deep focus. We help our customers win by delivering durable value. 
+
+
+ Go Further Together: We’re one team working towards one mission and vision. We collaborate proactively and inclusively, involving the right people at the right time and in the right way. We strive to create a more equitable workplace. We won’t let each other fail. 
+
+
+ Additional Resources: 
+
+
+ Moloco Company Blog 
+
+
+ Moloco Leadership
+
+
+ Moloco Newsroom 
+
+
+ Equal Opportunity: 
+ Moloco is an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, color, creed, religion, national origin, age, sex and gender, gender expression and gender identity, sexual orientation, marital status, ancestry, physical or mental disability, military and veteran status, or any other characteristic protected by law. 
+---------------------- 

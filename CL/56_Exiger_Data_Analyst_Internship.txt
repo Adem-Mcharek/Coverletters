@@ -1,0 +1,38 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Adem Mcharek  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+
+[Date]
+
+[Recipient Name]  
+[Company Name]  
+[Company Address]  
+[City, State, Zip]
+
+Dear [Recipient Name],
+
+I recently came across the opportunity for [Position Title] at [Company Name] through [how you learned about the position; e.g., a classified advertisement, an unsolicited mailing, the Internet, personal referrals]. As a Bachelor's candidate in Artificial Intelligence from Long Island University with a comprehensive background in AI development, machine learning, and leadership roles, I am enthusiastic about bringing my expertise to your team.
+
+My academic and project experiences have equipped me with a solid foundation in both the theoretical and practical aspects of AI and computer science. As an AI Research Assistant at LIU Brooklyn, I orchestrated a multi-agent system for real-time academic literature retrieval using AUTOGEN's RAG transforming, which demonstrates my **problem-solving skills** and **ability to work with complex AI systems**. Additionally, my work on a Convolutional Neural Network (CNN) in PyTorch to classify handwritten digits and a hand gesture recognition system using TensorFlow mirrors the innovative spirit and technical prowess that [Company Name] values.
+
+Beyond technical skills, my role as the founder and president of the "AI Club" at LIU Brooklyn has sharpened my **leadership and collaborative abilities**. This position allowed me to foster a vibrant community of over 50 AI enthusiasts, direct innovative projects, and enhance my peers' hands-on experience and research capabilities. These experiences underline my **teamwork skills**, **innovative thinking**, and **dedication to fostering communities of learning and growth**.
+
+I am eager to contribute my skills and experiences to [Company Name] as a [Position Title]. I believe that my background in AI development, research projects, and leadership positions would make a significant contribution to your team. Please find my resume attached for more detailed information about my achievements.
+
+I am available for an interview at your earliest convenience and can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. I look forward to discussing my application with you in further detail and will follow up next week to inquire about the possibility of an interview.
+
+Thank you for considering my application.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+**Note:** 
+- The placeholders [Position Title], [Company Name], [how you learned about the position], [Recipient Name], and [Date] should be replaced with the specific details related to the job Adem Mcharek is applying for.
+- The skills and experiences highlighted are based on Adem Mcharek's resume and are tailored to demonstrate a fit with a potential position requiring a background in AI, machine learning, leadership, and innovation.
+- The closing paragraph emphasizes proactive follow-up, demonstrating eagerness and initiative.-------/n

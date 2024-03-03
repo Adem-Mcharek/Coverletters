@@ -1,0 +1,14 @@
+Cadence_Design_Systems: Software_Intern_Data_Platform  ------- 7-Feb
+ 
+Company Overview Cadence Design Systems, a recognized leader in electronic systems design, leverages over three decades of computational software expertise to deliver comprehensive solutions, including software, hardware, and I P, that transform design ideas into tangible products. The company's Intelligent System Design strategy has made it a trusted partner for the world's leading companies in diverse markets such as hyperscale computing, 5 G communications, automotive, and healthcare. Cadence's commitment to fostering a positive work environment is evident in its eight-year streak on Fortune's 100 Best Companies to Work For list, underscoring its industry leadership and competitive edge.
+---------------------- 
+Company Stage N/ A Total Funding $462.8 M Founded1988 Headquarters San Jose, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 10%2 year growth↑ 13%
+---------------------- 
+Requirements Pursuing degree in Computer Science or Electrical Engineering Experience working with big data, such as L L M, Spark, Hadoop, Kafka, etc. In-depth understanding of data structures, algorithms, and distributed systems Development experience in Python, Java, or Scala Understanding of database fundamentals and familiarity with S Q L Familiar with working in Linux-based environments Excellent verbal and written communication skills
+---------------------- 
+Responsibilities Researching and developing data platform components and applications in E D A and adjacent markets Working with a worldwide cross-functional team Collaborating to find innovative and practical solutions
+---------------------- 
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. We are looking for exceptional individuals interested in working at intersection of big data analytics and E D A in an internship position. Primary responsibilities include researching and developing data platform components and applications in E D A and adjacent markets. You will work with a worldwide cross-functional team and collaborate to find innovative and practical solutions. Qualifications·        Pursuing degree in Computer Science or Electrical Engineering·        Experience working with big data, such as L L M, Spark, Hadoop, Kafka, etc.·        In-depth understanding of data structures, algorithms, and distributed systems·        Development experience in Python, Java, or Scala·        Understanding of database fundamentals and familiarity with S Q L·        Familiar with working in Linux-based environments·        Excellent verbal and written communication skills We’re doing work that matters. Help us solve what others can’t.
+---------------------- 

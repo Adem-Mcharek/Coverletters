@@ -1,0 +1,44 @@
+Tempus: Data_Security_Summer_Analyst  ------- 23-Jan
+ 
+Company Overview Tempus Labs, Inc. is a leader in precision medicine, leveraging artificial intelligence to analyze vast clinical and molecular data, enabling physicians to deliver personalized, data-driven care. The company's advanced machine learning platform and unique solution sets facilitate the discovery, development, and delivery of optimized therapeutic options for patients. With a focus on extensive molecular profiling, Tempus has developed a robust pan-cancer tumor organoid platform and validated a liquid biopsy assay, demonstrating their commitment to transforming personalized patient care and their position at the forefront of the healthcare industry.
+---------------------- 
+Company Stage Series G Total Funding $1.3 B Founded2015 Headquarters Chicago, Illinois
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 7%1 year growth↑ 28%2 year growth↑ 51%
+---------------------- 
+Requirements Pursuing a Bachelor's degree in Cybersecurity, Computer Science, Information Science, Software Engineering, Information Technology, or Information Systems General knowledge of computing platforms and networking fundamentals General knowledge of cloud computing platforms such as A W S, Microsoft Azure, or Google Cloud Platform Basic experience with scripting languages like Python, Power Shell, or Bash Familiarity with regulatory requirements and laws such as P C I, H I P A A, G D P R, and C C P A Excellent written and verbal communication skills Strong computer skills, including advanced knowledge of Google Suite and Gmail Ability to work independently as well as in collaboration with others in a fast-paced environment
+---------------------- 
+Responsibilities Applying skills and knowledge learned in the classroom to on-the-job experiences Working on comprehensive, value-added project(s) to enhance the fields of science and technology Collaborating with teams/colleagues in a fast-paced environment Gaining professional development & building relationships with peers from across the country
+---------------------- 
+Passionate about precision medicine and advancing the healthcare industry?
+ Recent advancements in underlying technology have finally made it possible for A I to impact clinical care in a meaningful way. Tempus’ proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+ Tempus is seeking a highly qualified undergraduate Data Security Summer Analyst to work with us for the summer of 2024. We are looking for people who can change the world.
+ Our goal is to provide you with a comprehensive overview of what it’s like to work at Tempus and the chance to have a true impact. We hope that at the end of your internship, you leave with a deeper understanding and appreciation for Tempus’ profound goals and mission;  to connect an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+ As a Summer Intern at Tempus, you will:
+
+ Apply skills and knowledge learned in the classroom to on-the-job experiences
+ Work on comprehensive, value-added project(s) that help enhance the fields of science and technology 
+ Collaborate with teams/colleagues in a fast-paced environment 
+ Gain professional development & build relationships with peers from across the country 
+
+ Anticipated Summer Project(s):
+ Generative A I ( Gen A I) Governance - As we endeavor to utilize and gain value from evolving  Gen A I capabilities there is a need to have appropriate governance processes to monitor and establish guardrails for this fast-changing technology. This project will support the development of metrics within technical reporting tools as well as establish processes to act on the insights in a consistent way.2024-2025 H I P A A Risk Assessment - As part of our regulatory obligations as a Healthcare organization there is a requirement to complete an organization-wide risk assessment. This project will support a cross-functional team across Legal and Information Security to prepare for and initiate this risk assessment. This will enable the gathering of key insights from our business areas around potential areas of improvement in protecting Protected Health Information ( P H I).
+ Qualifications:
+
+ Pursuing a Bachelor’s degree (undergraduate completion in summer of 2025) in Cybersecurity, Computer Science, Information Science, Software Engineering, Information Technology, and Information Systems.
+ General knowledge of computing platforms, including Windows, O S X, Linux, Unix, and networking fundamentals 
+ General knowledge of cloud computing platforms such as Amazon Web Services ( A W S), Microsoft Azure, or Google Cloud Platform.
+ Preferably some basic experience with one or more scripting languages (e.g., Python, Power Shell, and Bash).
+ Ideally familiar with regulatory requirements and laws, such as Payment Card Industry ( P C I), H I P A A, G D P R, and California Consumer Privacy Act ( C C P A).
+ Excellent written and verbal communication skills in a variety of settings and media.
+ Strong computer skills, including advanced knowledge of Google Suite and Gmail, preferred.
+ A self-starter with the ability to work independently as well as in collaboration with others in a fast-paced environment is critical. Be ready to fly the plane as you’re still building it!
+
+ Additional Details:
+
+ You will spend 8 or 10 weeks working in our Chicago office. The internship will be a hybrid, onsite 3 days/week with the option to work remotely the remaining days.
+ The program will start in early June and run through August.
+ A competitive hourly wage will be provided for the summer employment and a relocation bonus to help offset some of the relocation costs and resources to help you find housing.
+
+# L I- Hybrid We are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+---------------------- 

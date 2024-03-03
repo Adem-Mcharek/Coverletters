@@ -1,0 +1,39 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the resume and the job posting for Hewlett Packard's Data Science Generative AI Intern position for Summer 2024, here is a tailored cover letter:
+
+---
+
+### Adem Mcharek
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[LinkedIn](linkedin.com/in/adem-mcharek) | [GitHub](github.com/adem-mcharek)
+
+[Date]
+
+Hiring Manager  
+Hewlett Packard  
+Palo Alto, California
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Science Generative AI Intern position for Summer 2024, as advertised [on your website/through a personal referral]. The opportunity to contribute to HP's mission to engineer experiences that amaze, using cutting-edge AI and data science technologies, is incredibly exciting to me. With my strong academic background in artificial intelligence and my hands-on experience in machine learning, natural language processing, and computer vision, I am confident in my ability to contribute meaningfully to your team.
+
+My educational journey at Long Island University has equipped me with a **solid foundation in computer science** and **core data science skills**, including **machine learning**, **NLP**, and **deep learning**, all pertinent areas of expertise highlighted in the job description. Specifically, my project work, such as developing an AI Research Assistant with AUTOGEN's multi-agent system for real-time academic literature retrieval and a Convolutional Neural Network (CNN) in PyTorch for classifying handwritten digits, showcases my ability to apply theoretical knowledge to practical, real-world problems. These projects not only align with HP's requirements for **experience in large language models** but also demonstrate my **fluency in Python**, one of the desired qualifications for the internship.
+
+Beyond my technical skills, I have cultivated strong **leadership and communication abilities**, demonstrated through founding and presiding over the AI Club at LIU Brooklyn. This role has honed my capacity for collaborative problem-solving, initiating innovative projects, and driving them to successful completion—a practice that mirrors the collaborative nature of the responsibilities at HP. My ability to clearly and effectively **communicate complex ideas**, both in writing and verbally, will ensure seamless integration with the project team at HP and help facilitate the presentation of internship projects to upper management.
+
+I am particularly drawn to HP's commitment to inspiring meaningful progress through technology. I share this passion, as evidenced by my volunteer work as a founder, mentor, and member of AJST Zarzis, a scientific club in Tunisia. My tenure here, leading projects utilizing modern technologies and fostering learning among peers, perfectly encapsulates my enthusiasm for using technology to make a tangible difference.
+
+I am available to start the internship in Summer 2024 and am eager to discuss how my background, skills, and enthusiasms align with the needs of the Data Science Generative AI team at HP. I will follow up next week to inquire about arranging an interview at your convenience. In the meantime, I can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team and learning from the innovative work being done at HP.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+Please adjust the date and method of learning about the position according to your specifics.-------/n

@@ -1,0 +1,62 @@
+BambooHR: AI_Engineering_Data_Science_Intern  ------- 3-Feb
+ 
+Company Overview Bamboo H R is a leading H R software provider that offers an intuitive, cloud-based system, enabling H R teams to be more strategic and efficient in managing essential employee information. The company's culture is characterized by helpfulness, kindness, and a focus on human factors, creating a positive work environment. Their competitive edge lies in their ability to consolidate multiple systems into one, providing a seamless experience for employees and significantly improving H R task completion rates.
+---------------------- 
+Company Stage N/ A Total Funding N/ A Founded2008 Headquarters Lindon, Utah
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 1%2 year growth↑ 24%
+---------------------- 
+Requirements Computer Science, Data Science, Applied Mathematics or related degree Familiarity with S Q L and Python for data querying and transformation Experience in coding software that works with data Knowledge of data exploration and visualization Understanding of machine learning algorithms, neural networks, and predictive modeling Exposure to cloud-based computing environments such as A W S and G C P Clear communication skills Analytical and perceptive of patterns Strong understanding of underlying math and algorithms Ability to write high-quality code Creativity in finding relevant and novel approaches Ability to work independently and in small teams
+---------------------- 
+Responsibilities Collaborating with business stakeholders to understand needs and opportunities Creating exploratory data analysis and visualizations Building machine learning models to improve customer experience or key processes Using N L P and L L Ms to interpret textual data and work with conversational interfaces Writing scripts and code to deploy and tune A I applications
+---------------------- 
+Desired Qualifications Experience with prompt engineering Experience with cloud-based computing environments such as A W S and G C P
+---------------------- 
+About Us
+ Our mission is simple: we want to set people free to do meaningful work. People love our software—and it turns out that people love working here too. We’ve been recognized as a " Best Company to Work For” and we’re proud of our team for creating software that makes an impact in the lives of H R pros and employees all over the world. About Us Our mission is simple: we want to set people free to do meaningful work. People love our software—and it turns out that people love working here too. We’ve been recognized as a " Best Company to Work For” and we’re proud of our team for creating software that makes an impact in the lives of H R pros and employees all over the world.
+ Our A I team is expanding. From prototypes to production features, we’re building logic to harness data to unleash new product possibilities and accelerate our business. Through our mission we can help millions of users in growing businesses achieve more with smart insights and interactions.
+ What You’ll Do
+ As an A I Engineering / Data Science Intern, you will contribute to our growing A I and machine learning initiatives. You’ll make a meaningful impact by harnessing data while working alongside our incredible data science and A I applications teams. You’ll be paired with a skilled mentor who will help you develop your skills and make the most of your internship experience. If you get a kick out of solving problems and working with data to derive insights that will help lift people at work, you will love Bamboo H R.
+ You will have the opportunity to collaborate in different areas depending on current projects and your interests. This might include:
+
+ Collaborating with business stakeholders to understand needs and opportunities
+ Creating exploratory data analysis and visualizations
+ Building machine learning models to improve customer experience or key processes
+ Using N L P and L L Ms to interpret textual data and work with conversational interfaces
+ Writing scripts and code to deploy and tune A I applications
+
+** This will be a paid, full-time internship ( M- F, 8-5), running from May to August 2024, based in Lindon, Utah with a mix of in-office and virtual work. In some cases, full-time employment may be available at the end of the internship.
+ What You Need to Get the Job Done
+ To be prepared for a great internship, you’ll likely have familiarity and some demonstrated experience working with several of these areas:
+
+ Computer Science, Data Science, Applied Mathematics or related degree
+ Data querying and transformation with S Q L and Python
+ Coding software that works with data
+ Data exploration and visualization
+ Familiarity with the workings of L L Ms and prompt engineering
+ Machine learning algorithms, neural networks, and predictive modeling
+ Exposure to cloud-based computing environments such as A W S and G C P
+
+ Beyond the technical skills, we’re looking for individuals who are:
+
+ Clear communicators with the team and stakeholders
+ Analytical and perceptive of patterns
+ Strong in understanding underlying math and algorithms
+ Capable of writing high-quality code
+ Creative in finding relevant and novel approaches
+ Productive in a dynamic setting
+ Able to work independently and in small teams
+
+ What You’ll Love About Us
+
+ Great Company Culture. We’ve been recognized by multiple organizations like Inc, Salt Lake Tribune, Glassdoor,  & Comparably for our great workplace culture.
+ Make an Impact. We care about your individuality by giving you freedom to grow and create within the company, regardless of your position.
+ Prepare for the Future. 401(k) with a generous company match.
+ Financial Peace University. We pay for a one year subscription and you walk away with financial savvy and a bonus.
+ Flexible Work Models. In-office, work-from-home, or hybrid, depending on position and location. 
+ Rest and Relaxation. Paid time off for summer holidays and birthdays (ask us about this).
+
+
+ Bamboo H R is An Equal Opportunity Employer-- M/ F/ D/ V Because our team members are trusted to handle sensitive information, we require all candidates that receive and accept employment offers to complete a background check before being hired.
+ For information on our Privacy Policy, click here. 
+---------------------- 

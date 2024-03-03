@@ -1,0 +1,51 @@
+Critical_Mass: Development_Intern  ------- 23-Jan
+ 
+Company Overview Critical Mass was founded when a design visionary and a successful entrepreneur came together with a focus on digital experiences in a rapidly evolving space. Critical Mass has helped global brands reimagine digital and transform their businesses though strategic consulting, innovative creative ideas and cutting-edge technology thinking.
+---------------------- 
+Company Stage N/ A Total Funding $238 K Founded1996 Headquarters Calgary, Canada
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 0%1 year growth↑ 5%2 year growth↑ 41%
+---------------------- 
+Requirements Demonstrated development experience with H T M L, C S S, H T M L5, C S S3, and Java Script Currently in 2nd or 3rd year of a 4-year degree or 1st year of a 2-year specialization program Demonstrated development exposure to React or V U E Package manager and automation tool experience (npm, gulp, grunt) Basic understanding of Responsive Web Design principles Aptitude to collaborate and work with cross discipline teams Exposure in diagnosing and solving cross-browser and cross-platform issues
+---------------------- 
+Responsibilities Gain exposure to all elements of the technology discipline at Critical Mass Understand how technology fits into the Critical Mass agency offerings Collaborate with other interns on a client project and our global intern project Deliver solutions balancing technical and business requirements Understand business and user requirements Maintain high coding standards and practices to exercise quality control on all aspects of web development Problem-solve in all areas of web development
+---------------------- 
+Desired Qualifications Foundational knowledge of languages like H T M L, C S S and Javascript Passion to learn more about technology
+---------------------- 
+Critical Mass’ Trailhead Internship Program is a 12-week jump-start to your career. This program is a fast-track to launch your career with regular learning opportunities, mentorship and real client work, while also getting paid. We aim to integrate you into the amazing work we do here at Critical Mass, and support you as part of the team to grow your career with us! You will have the opportunity to try the digital agency world to see if it’s for you!
+ Our Internship will run from May 21st - August 9th, 2024.
+ All applications are reviewed on a rolling basis and the hiring location for this role is still being finalized.
+
+ As a Development Intern you will get to work with a tech lead to gain experience to all the different aspects of the technology discipline at Critical Mass. You will gain experience seeing how the technology team works with different departments like creative and U X to create top-notch user experiences. You will have foundational knowledge of languages like H T M L, C S S and Javascript and a passion to learn more. Most importantly, you are driven to hone your craft through a passion for technology.
+ You Will:
+
+ Gain exposure to all elements of the technology discipline at Critical Mass. 
+ Understand how technology fits into the Critical Mass agency offerings. 
+ Collaborate with other interns on a client project and our global intern project. 
+ Deliver solutions balancing technical and business requirements.  
+ Understand business and user requirements. 
+ Maintain high coding standards and practices to exercise quality control on all aspects of web development. 
+ Problem-solve in all areas of web development.
+
+ You Have:
+
+ Demonstrated development experience with H T M L, C S S, H T M L5, C S S3, and Java Script through class or certificate program.
+ Currently in 2nd or 3rd year of a 4-year degree or 1st year of a 2-year specialization program
+ Demonstrated development exposure to React or V U E.  
+ Package manager and automation tool experience (npm, gulp, grunt).  
+ Basic understanding of Responsive Web Design principles.
+ Aptitude to collaborate and work with cross discipline teams.
+ Exposure in diagnosing and solving cross-browser and cross-platform issues.
+
+ Critical Mass’ Hybrid Work Expectation for the Trailhead Talent:  
+ The Talent Team at Critical Mass is focused on ensuring we provide the best training, onboarding, and employee experience possible! Our Trailhead Talent is the future of our organization, and we want to set you up for long-term success. In an effort to do so, we’d like to establish the expectation that you plan to work from our Critical Mass office 4 days per week. The ask stems from our want to:
+
+ Strengthen opportunity for continuous learning
+ Improve collaboration and team relationships
+ Increase employee engagement
+
+ This hybrid model balances the need for individual flexibility while maintaining the relentless customer focus, we provide at C M. We understand that not everyone may feel comfortable with this expectation so we ask that you please let us know immediately if there are any concerns so we can help navigate accordingly. Critical Mass is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We do not tolerate discrimination on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. If you are an individual with disabilities who would like to request an accommodation, please reach out to [email protected].
+ We are committed to fostering diversity, equity, and inclusion within our pool of candidates, with a target of achieving at least 50% representation from underrepresented communities.
+ The Critical Mass Talent Acquisition team will only communicate from email addresses that use the U R Ls criticalmass.comandus.greenhouse-mail.io. We will not use apps such as Facebook Messenger, Whats App, or Google Hangouts for communicating with you. We will never ask you to send us money, technology, or anything else to work for our company. If you believe you are the victim of a scam, please review your local government consumer protections guidance and reach out to them directly. 
+ If U. S. based:https://www.consumer.ftc.gov/articles/job-scams#avoid If Canada based:https://www.canada.ca/en/services/finance/consumer-affairs.html If U. K. based:https://www.gov.uk/consumer-protection-rights If Costa Rica based: https://www.consumo.go.cr/educacion_consumidor/consejos_practicos.aspx 
+---------------------- 

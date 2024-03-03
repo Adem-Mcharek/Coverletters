@@ -1,0 +1,40 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the given structure, instructions, and information extracted from Adem Mcharek's resume and the NVIDIA Hardware Engineering Intern job posting, below is a cover letter tailored to the application:
+
+---
+
+Adem Mcharek  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[Linkedin Profile](linkedin.com/in/adem-mcharek)  
+[Github Profile](github.com/adem-mcharek)
+
+[Date]
+
+Hiring Manager  
+NVIDIA  
+Santa Clara, California  
+
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the NVIDIA Summer 2024 Hardware Engineering Internship, which I learned about through the NVIDIA careers website. NVIDIA's vision for the future of computing, particularly in AI and hardware engineering, aligns perfectly with my career aspirations and academic pursuits as an Artificial Intelligence major at Long Island University. My solid foundation in machine learning, neural networks architecture, and my practical project experience make me an excellent fit for this opportunity.
+
+Throughout my academic career, I have demonstrated a strong proficiency in **Python**, **TensorFlow**, and **PyTorch**, developing projects like a Convolutional Neural Network in PyTorch to classify handwritten digits and a hand gesture recognition system using TensorFlow. These projects not only afforded me practical experience but also honed my skills in **machine learning, deep learning**, and **neural network architecture**. My contribution to research as an AI Research Assistant, where I orchestrated projects with multi-agent systems for real-time academic literature retrieval and file retrieval, showcases my ability to tackle complex challenges in technology.
+
+In addition to my technical skills, my history of leadership roles and team collaborations further enhances my application. As the Founder and President of the AI Club at LIU Brooklyn, I have fostered a community of over 50 AI enthusiasts, spearheading innovative projects across different AI disciplines. This role has groomed my **leadership skills, teamwork**, and ability to work in a fast-paced, ever-evolving field. My commitment to excellence is also reflected in my **cumulative GPA of 3.88/4.00**, demonstrating my dedication and capability to thrive in challenging environments.
+
+I am particularly excited about the possibility of contributing to NVIDIA's System Validation, Hardware Design, and Mechanical Engineering teams. I believe my background in programming, machine learning, and hands-on projects in AI research positions me well to contribute effectively to NVIDIA's objectives of delivering high-performance, functional, and quality products.
+
+I am available for an internship during the summer of 2024 and can be reached at +1 929-527-4331 or adem.mcharek@my.liu.edu. I plan to follow up next week to discuss how my background and skills align with NVIDIA's needs and how I can contribute to your team. I look forward to the possibility of contributing to NVIDIA's success and learning from the remarkable team there.
+
+Thank you for considering my application.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+This cover letter is created based on the resume and job posting details provided, tailored to highlight Adem's relevant experience and skills for the NVIDIA Hardware Engineering Intern position.-------/n

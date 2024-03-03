@@ -1,0 +1,40 @@
+Alarm_com: Device_Engineer_Intern  ------- 30-Jan
+ 
+Company Overview Alarm.com stands out as a leading platform for intelligently connected properties, offering comprehensive security, video monitoring, intelligent automation, and energy management solutions. The company's culture is recognized for its meaningful work, earning the Top Workplace™ award, and it actively seeks individuals passionate about creating impactful change through technology. With its advanced technology, Alarm.com provides reliable protection and valuable insights, enabling users to manage their security remotely, monitor their property in H D, implement wellness solutions, and detect intrusions, making it a preferred choice for millions of home and business owners globally.
+---------------------- 
+Company Stage Seed Total Funding $164.5 M Founded2000 Headquarters Mc Lean, Virginia
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 5%2 year growth↑ 5%
+---------------------- 
+Requirements Pursuing a degree in Computer Science, Electrical/ Computer engineering, or related field, or equivalent experience Experience with a modern programming language such as C, C++, or Python, with object-oriented design a plus Experience with software development on an embedded Linux device or microcontroller a plus Good verbal and written communication skills Passion for working with technology and excitement for creating high quality consumer technology products
+---------------------- 
+Responsibilities Designing devices Building and manufacturing hardware Architecting and implementing software Collaborating in an agile and fast-paced environment
+---------------------- 
+Desired Qualifications Experience with object-oriented design Experience with native i O S and Android applications, single page web applications build with Ember Js, Node.js, E C M A Script 2017 Java Script, Microsoft. N E T C#, Web Api and S Q L Server
+---------------------- 
+P O S I T I O N O V E R V I E W  
+ Alarm.com is a rapidly expanding technology company developing innovative cloud and device solutions across a wide range of cutting-edge technologies that provide a unified, connected service to millions of residential and commercial properties in the U S and abroad.   We are looking for a talented and passionate embedded software engineer for the Device Engineering team to help us define the future of the Internet-of- Things for residential and commercial properties by creating and integrating devices that connect with our robust cloud using next-gen communication stacks.  You will be working with a team of talented engineers across a diverse set of technological backgrounds to design devices, build and manufacture hardware, architect and implement software, and collaborate in an agile and fast-paced environment.
+ R E Q U I R E M E N T S
+
+ Pursuing a degree in Computer Science, Electrical/ Computer engineering, or related field, or equivalent experience
+ Experience with a modern programming language such as C, C++, or Python, with object-oriented design a plus
+ Experience with software development on an embedded Linux device or microcontroller a plus
+ Good verbal and written communication skills
+ Passion for working with technology and excitement for creating high quality consumer technology products
+ Other duties as assigned
+
+ W H Y I N T E R N F O R A L A R M. C O M? 
+
+ Collaborate with outstanding people:  We hire only the best. Our standards are high and our employees enjoy working alongside other high achievers. 
+ Make an immediate impact:  Interns can expect to work on meaningful projects that help with bringing new technologies to the marketplace.
+ Gain well rounded experience:  Alarm.com offers a diverse and dynamic environment where you will get the chance to work directly with full-time employees and learn about multiple areas of the business. 
+ Focus on fun:  Alarm.com places high value on our team culture. Our internship program hosts several fun events throughout the summer.
+ Our Technology Stack: native i O S and Android applications, single page web applications build with  Ember Js, Node.js, E C M A Script 2017 Java Script, Microsoft. N E T C#,  Web Api and S Q L Server
+
+ C O M P A N Y I N F O
+ Alarm.com is the leading cloud-based platform for smart security and the Internet of Things. More than 7.6 million home and business owners depend on our solutions every day to make their properties safer, smarter, and more efficient. And every day, we’re innovating new technologies in rapidly evolving spaces including A I, video analytics, facial recognition, machine learning, energy analytics, and more.   We’re seeking those who are passionate about creating change through technology and who want to make a lasting impact on the world around them. 
+ For more information, please visit www.alarm.com.
+ Alarm.com is an Equal Opportunity Employer
+ In connection with your application, we collect information that identifies, reasonably relates to or describes you (“ Personal Information”). The categories of Personal Information that we may collect include your name, government-issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, criminal record, and demographic information.   We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or future positions, recordkeeping in relation to recruiting and hiring, conducting criminal background checks as permitted by law, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies.
+ J R104045
+---------------------- 

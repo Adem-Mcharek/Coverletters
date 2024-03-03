@@ -1,0 +1,53 @@
+TripAdvisor: Software_Engineering_Intern_x5_Viator  ------- 31-Jan
+ 
+Company Overview Buy Seasons, Inc., established in 1999, has grown to become the premier online retailer of costumes, accessories, and party supplies, demonstrating a strong competitive advantage through its vast selection and competitive pricing. The company's culture is centered around fun and customer satisfaction, ensuring a vibrant and engaging work environment. Their association with Liberty Trip Advisor, the world's largest travel platform, further enhances their industry leadership and global reach.
+---------------------- 
+Company Stage N/ A Total Funding $325 M Founded1999 Headquarters New Berlin, Wisconsin
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 0%1 year growth↑ 2%2 year growth↑ 0%
+---------------------- 
+Requirements Students in their second year or later, working towards a degree in Computer Science or a similar discipline Confident writing code in at least one object-oriented language Willingness and ability to take on new technologies Ability to break down complex problems into simple solutions Strong analytical skills and desire to write clean, correct, and efficient code High quality verbal and written communication skills A sense of ownership, urgency, and pride in your work Availability for at least ten weeks between June and September 2024
+---------------------- 
+Responsibilities Code! Most of our engineers release code to production every few days Real work! From day one, Tripadvisor interns work on the same tasks as our main Engineering team Learn! You’ll be assigned a dedicated mentor and work alongside skilled engineers with a wide range of backgrounds and experiences Collaborate! We have engineering groups located around the world Operate across our evolving technology stack Take responsibility for all aspects of software engineering, from design to implementation, Q A, and maintenance Touch code at every level – from the U I, through backend microservices, and down to the database Collaborate closely with Product and Design teams to define feature specifications and develop high quality deliverables for our customers
+---------------------- 
+Desired Qualifications Experience with Java, React, Java Script, Type Script, A W S, My S Q L, Graph Q L
+---------------------- 
+Viator, a Tripadvisor company, is the leading marketplace for travel experiences. We believe that making memories is what travel is all about. And with 300,000+ travel experiences to explore—everything from simple tours to extreme adventures (and all the niche, interesting stuff in between)—making memories that will last a lifetime has never been easier. With industry-leading flexibility and last-minute availability, it’s never too late to make any day extraordinary. Viator. One app, 300,000+ travel experiences you’ll remember. This year, the Oxford engineering team have opened up a number of internship roles to join them for summer 2024.
+ A Tripadvisor internship provides real world experience as part of a world-class engineering team, along with an excellent salary and other perks. Several of our former interns have gone on to become full-time members of the Engineering team.
+ We have a fun and friendly environment where the key objective is getting things done. Our engineers input during every stage whilst delivering technical solutions, from design, to programming, testing, and deployment.
+ Across Tripadvisor, we’ve worked hard to create an atmosphere of “ Speed Wins” – streamlining processes, shipping products quickly, and avoiding big company paralysis. Tripavisor prides itself on being a bottom-up organisation. Engineers are given the freedom to investigate, implement, and own the solutions they formulate within their team. 
+ Do you want to build features end to end? Do you want to work with a large number of technologies? Do you want to work in an environment where things move quickly, features are released daily and you’re working with other smart and talented engineers? If this sounds like you, we would love to talk to you.
+ What you’ll do
+
+ Code! Most of our engineers release code to production every few days. The majority of our services are continuously released with the others following a daily release cycle.
+ Real work! From day one, Tripadvisor interns work on the same tasks as our main Engineering team.
+ Learn! You’ll be assigned a dedicated mentor and work alongside skilled engineers with a wide range of backgrounds and experiences.
+ Collaborate! We have engineering groups located around the world. We’re working with teams in the U S, Portugal and Australia, as well as with third parties.
+ Operate across our evolving technology stack - Currently this includes Java, React, Java Script, Type Script, A W S, My S Q L, Graph Q L and more.
+ Take responsibility for all aspects of software engineering, from design to implementation, Q A, and maintenance.
+ Touch code at every level – from the U I, through backend microservices, and down to the database.
+ Collaborate closely with Product and Design teams to define feature specifications and develop high quality deliverables for our customers.
+
+ What we’re looking for
+
+ Students in their second year or later, working towards a degree in Computer Science or a similar discipline. You do need to be confident writing code in at least one object-oriented language.
+ Willingness and ability to take on new technologies. You do not need to have experience with all the technologies listed above, but you do need the drive to learn them.
+ Ability to break down complex problems into simple solutions.
+ Strong analytical skills and desire to write clean, correct, and efficient code.
+ High quality verbal and written communication skills.
+ A sense of ownership, urgency, and pride in your work.
+ People who can dedicate at least ten weeks between June and September 2024.
+
+ Our Values
+ We aspire to lead; We’re relentlessly curious;... want to know more? Read up on our values: 
+
+ We aspire to lead. Tap into your talent, ambition, and knowledge to bring us – and you – to new heights.
+ We’re relentlessly curious. We push beyond the usual, the known, the “that’s just how it’s done.”
+ We’re better together. We learn from, accept, respect, support, and value one another– and are creating something remarkable in the process.
+ We serve our customers, always. We listen, question, respond, and strive for wow moments.  
+
+ We strive for better, not perfect. We won’t get it right the first time – or every time. We’ll provide a safe environment in which to make mistakes, iterate, improve, and grow.
+ Our workplace is for everyone, as is our people powered platform. At Tripadvisor, we want you to bring your unique identities, abilities, and experiences, so we can collectively revolutionize travel and together find the good out there.
+# L I- T M2
+# Viator
+---------------------- 

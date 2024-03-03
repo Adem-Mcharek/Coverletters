@@ -1,0 +1,38 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the instructions, the structured format provided, and the information gathered from the resume and job posting, here is a draft of the cover letter for the Software Developer Intern position at Qualitest:
+
+---
+
+[Your Name]  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+
+[Date]  
+
+Hiring Manager  
+Qualitest  
+Headquarters  
+United Kingdom  
+
+Dear Hiring Manager,
+
+I came across your posting for a Software Developer Intern position on your careers page and was immediately drawn to the opportunity to contribute to Qualitest, the world’s leading AI-powered Quality Engineering Company. As a current student of Bachelor in Artificial Intelligence at Long Island University with a cumulative GPA of 3.88 and a strong foundation in programming languages and AI technologies, I am eager to apply my academic learnings and project experience in a dynamic and innovative environment like Qualitest.
+
+My academic and project involvement at Long Island University has endowed me with a solid understanding of programming languages and frameworks that are directly relevant to this role, including JavaScript, HTML, CSS, and familiarity with Java. For instance, through my role as an AI Research Assistant, I have orchestrated a multi-agent system for academic literature retrieval and developed a Convolutional Neural Network (CNN) using PyTorch. These projects not only required deep technical knowledge but also the ability to problem-solve, pay attention to detail, and work collaboratively—skills that I understand are critical for the Software Developer Intern position at Qualitest.
+
+Beyond my technical skills, I have demonstrated leadership and interpersonal abilities through founding and presiding over the AI Club at LIU Brooklyn, where I've led projects across AI disciplines and cultivated a community of over 50 enthusiasts. These experiences have honed my communication skills and my capacity to work effectively in team environments. 
+
+I am excited about the opportunity to bring my blend of skills and passion for software development to the Qualitest team. I am particularly drawn to the company's commitment to diversity and inclusion, as well as the prospect of contributing to projects that have a tangible impact on users worldwide.
+
+I am available to start work in line with the internship's requirements and can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. I look forward to the possibility of discussing this exciting opportunity with you further. I plan to follow up on my application next week to ensure you have received all necessary documents.
+
+Thank you for considering my application. I am looking forward to the opportunity to contribute to the Qualitest team and grow with the company.
+
+Sincerely,
+Adem Mcharek
+
+---
+
+This cover letter follows the instructions and structured format outlined, using the resume information to highlight relevant skills, experiences, and achievements, tailored to the job posting's requirements.-------/n

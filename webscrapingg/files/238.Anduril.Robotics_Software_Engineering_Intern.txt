@@ -1,0 +1,42 @@
+Anduril: Robotics_Software_Engineering_Intern  ------- 3-Jan
+ 
+Company Overview Anduril's mission is to transform U S & allied military capabilities with advanced technology.
+---------------------- 
+Company Stage Series E Total Funding $2.2 B Founded2017 Headquarters Costa Mesa, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 12%1 year growth↑ 70%2 year growth↑ 191%
+---------------------- 
+Requirements Currently pursuing a B S or M S in Robotics, Computer Science, or any related field Approaching Junior year or beyond at the time of the internship Must be returning to school at the end of their internship to continue their academic studies Proven understanding of data structures, algorithms, and concurrency Experience troubleshooting and analyzing deployed software systems Strong experience in statically typed, high-performance languages like C++, Rust, Haskell, etc U. S. Person status is required as this position needs to access export controlled data
+---------------------- 
+Responsibilities Building an automated analysis platform for evaluating robot performance Integrating and characterizing experimental new cameras Incorporating differential G P S into one of our robots Overhauling a model predictive control dynamics model to improve flight behavior on one of our robots
+---------------------- 
+Desired Qualifications Experience in one or more of the following: motion planning, perception, localization, mapping, controls, and related system performance metrics Python, Rust, and/or Go experience Experience programming for embedded and physical devices Complex frame transformation problems, such as target localization or multi degree of freedom robotic arms
+---------------------- 
+Anduril Industries is a defense technology company with a mission to transform U. S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice O S, an A I-powered operating system that turns thousands of data streams into a realtime, 3 D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, A I, computer vision, sensor fusion, and networking technology to the military in months, not years. W H A T Y O U’ L L D O
+
+ Robotics interns at Anduril work on real and important problems facing the team.
+ Previous intern projects have included:
+ Building an automated analysis platform for evaluating robot performance
+ Integrating and characterizing experimental new cameras
+ Incorporating differential G P S into one of our robots
+ Overhauling a model predictive control dynamics model to improve flight behavior on one of our robots
+
+ R E Q U I R E D Q U A L I F I C A T I O N S
+
+ Currently pursuing a B S or M S in Robotics, Computer Science, or any related field
+ Approaching Junior year or beyond at the time of the internship
+ Must be returning to school at the end of their internship to continue their academic studies
+ Proven understanding of data structures, algorithms, and concurrency
+ Experience troubleshooting and analyzing deployed software systems
+ Strong experience in statically typed, high-performance languages like C++, Rust, Haskell, etc
+ U. S. Person status is required as this position needs to access export controlled data
+
+ P R E F E R R E D Q U A L I F I C A T I O N S
+
+ Experience in one or more of the following: motion planning, perception, localization, mapping, controls, and related system performance metrics.
+ Python, Rust, and/or Go experience
+ Experience programming for embedded and physical devices
+ Complex frame transformation problems, such as target localization or multi degree of freedom robotic arms
+ The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in all offers; and are considered part of Anduril’s total compensation package. Additionally, Anduril offers top-tier benefits, including comprehensive Medical, Dental, and Vision Plans, employee life and disability, mental health and family planning benefits with all premiums paid by Anduril. Anduril provides fully paid medical leave, paid company holidays, and Paid Time Off. A professional development stipend is available to all Andurilians, and all on-site meals fully subsidized during the work week with gourmet kitchens. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. Anduril is an equal-opportunity employer committed to creating a diverse and inclusive workplace. The Anduril team is made up of incredibly talented and unique individuals, who together are disrupting industry norms by creating new paths towards the future of defense technology. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the C A Fair Chance Initiative for Hiring Ordinance.  We actively encourage members of recognized minorities, women, Veterans, and those with disabilities to apply, and we work to create a welcoming and supportive environment for all applicants throughout the interview process. If you are someone passionate about working on problems that have a real-world impact, we’d love to hear from you!
+ To view Anduril’s candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/. 
+---------------------- 

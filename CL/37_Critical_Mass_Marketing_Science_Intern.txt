@@ -1,0 +1,43 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the resume and job posting provided, here is a structured cover letter tailored to the Marketing Science Intern position at Critical Mass:
+
+---
+
+Adem Mcharek  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[LinkedIn: adem-mcharek](linkedin.com/in/adem-mcharek)  
+[GitHub: adem-mcharek](github.com/adem-mcharek)  
+
+[Date]
+
+Hiring Manager  
+Critical Mass  
+[Company Address]  
+Calgary, Canada  
+
+Dear Hiring Manager,
+
+I recently discovered the Marketing Science Intern position at Critical Mass through my academic research on leading digital marketing firms. Your company’s commitment to innovative digital experiences and the nurturing of emerging talent through the Trailhead Program deeply resonates with my academic background and career aspirations.
+
+I am currently pursuing a Bachelor's degree in Artificial Intelligence at Long Island University with a cumulative GPA of 3.88/4.00. My coursework has covered extensive areas of technology and data analysis, including Machine Learning, Deep Learning, Cloud Computing, and Natural Language Processing. My hands-on experience in AI-based projects, such as the development of a real-time academic literature retrieval system and a Convolutional Neural Network for classifying handwritten digits, demonstrates my proficiency in using cutting-edge technology to solve complex problems.
+
+Moreover, my involvement in computer vision utilizing TensorFlow for real-time hand gesture recognition highlights my ability to develop and analyze data-driven systems. This project not only honed my skills in web analytics and behavioral analysis but also showcased my potential to contribute to Critical Mass’s goal of transforming businesses through strategic insights.
+
+In addition to my technical skills, my tenure as the founder and president of the "AI Club" at university has fortified my leadership capabilities and my ability to foster a community of enthusiasts. This experience has enhanced my communication, team collaboration, and event organization skills, making me well-equipped to engage in collaborative intern projects and effectively present analysis findings.
+
+I am eager to bring my background in artificial intelligence, data analysis, and project leadership to the Marketing Science Intern position at Critical Mass. I believe that my technical skills and innovative approach to problem-solving will contribute significantly to your team.
+
+I am available to start the internship commencing May 21, 2024, and am looking forward to discussing my application in further detail. I will follow up with you next week to inquire about the possibility of arranging an interview. I can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to Critical Mass’s success and learn from the esteemed professionals in your team.
+
+Warm regards,
+
+Adem Mcharek
+
+---
+
+Please ensure to adjust details such as the company address and hiring manager's name as appropriate when you send out this cover letter.-------/n

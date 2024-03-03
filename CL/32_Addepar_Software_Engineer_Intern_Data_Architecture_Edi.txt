@@ -1,0 +1,36 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: I now have the contents of the resume. Next, I will proceed to analyze the job posting document to generate a cover letter that aligns with the job requirements using the provided instructions and structure.assistant: Based on the job posting and the resume, here's a draft of a cover letter for Adem Mcharek applying for the Software Engineer Intern at Addepar:
+
+---
+
+[Adem Mcharek's Address]  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
+[Today's Date]
+
+Hiring Manager  
+Addepar  
+Mountain View, CA  
+[Company Address]
+
+Dear Hiring Manager,
+
+I recently discovered the opportunity for a Software Engineer Intern at Addepar through an intensive online search focused on identifying companies at the forefront of data-driven financial technology innovation. Your mission to enhance transparency in the financial system and your impressive track record of growth and advancement in technology particularly caught my attention, prompting my application.
+
+As a Bachelor of Artificial Intelligence student at Long Island University Brooklyn with a cumulative GPA of 3.88/4.00, I am poised to bring a solid foundation in both theoretical and practical aspects of data processing, programming, and artificial intelligence to the role. **My proficiency in Python and TensorFlow**—coupled with hands-on project experience utilizing PyTorch for deep learning and TensorFlow for computer vision—is directly aligned with your requirements for a strong background in programming languages and an understanding of advanced data systems.
+
+Particularly relevant to this role is my project work as an **AI Research Assistant at LIU Brooklyn**, where I orchestrated a multi-agent AI system for real-time academic literature retrieval, showcasing my capability to implement engineering solutions to complex problems. This experience has fortified my hard skills in software development, including **real-time data processing and systems-level programming**. The creation of a hand gesture recognition system using the SSD MobileNet V2 FPNLite architecture not only highlights my technical expertise but also underscores my innovative approach to addressing sophisticated challenges.
+
+Concurrently, my leadership in initiating the AI Club at LIU Brooklyn, where I spearheaded projects crossing multiple AI disciplines, evidences my **persuasive and collaborative skills**. Being the founder and president has not only honed my ability to lead a team effectively but also ensured that projects under my guidance meet their deadlines with commendable results. My past awards in various global competitions attest to my dedication, innovative thinking, and ability to drive outcomes that add value.
+
+I am eager to bring my strong background in software engineering, collaborative spirit, and innovative mindset to the Data Platform Team at Addepar. I am available for an internship during the required period from May to August 2024. Please feel free to contact me at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu to discuss my application. I plan to follow up with you by next week to inquire about the possibility of an interview.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to Addepar’s mission to streamline financial systems for the greater good.
+
+Kind regards,
+
+Adem Mcharek
+
+---
+
+**Note:** Make sure to double-check the application deadlines, contact details, and personalized elements before sending this letter.-------/n

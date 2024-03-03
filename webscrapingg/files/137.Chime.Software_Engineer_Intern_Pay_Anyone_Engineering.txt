@@ -1,0 +1,54 @@
+Chime: Software_Engineer_Intern_Pay_Anyone_Engineering  ------- 26-Jan
+ 
+Company Overview Chime's mission is to make financial peace of mind a reality for everyone. The company has created "a new approach to online banking that doesn’t rely on fees, gets you your paycheck up to 2 days early with direct deposit, and helps you grow your savings automatically."
+---------------------- 
+Company Stage Series G Total Funding $2.2 B Founded2012 Headquarters San Francisco, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 3%1 year growth↑ 7%2 year growth↑ 20%
+---------------------- 
+Requirements Experience in backend languages/frameworks (e.g. Ruby on Rails, Java, Python) Understanding of software design patterns and best practices Experience with A W S or other cloud platforms
+---------------------- 
+Responsibilities Assist with the design, development, testing, and deployment of product features Develop distributed systems deployed in the cloud Work with a cross-functional team and understand how software is developed and maintained at scale
+---------------------- 
+Desired Qualifications Passion for learning and applying technology to solve real-world problems
+---------------------- 
+About the role
+ Chime is looking for an engineering intern to join our Pay Anyone team, which focuses on building a world-class peer-to-peer payment system. You will gain valuable professional experience working with cutting edge cloud technology and distributed systems alongside engineers with a wealth of experience to share. This is an exciting opportunity to learn while playing a role in a critical initiative at Chime.
+ This role is structured as a 3 month engagement. The starting hourly rate offered for this role and target level of experience will begin at $34 and up to $49. The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience.
+ In this role, you can expect to
+
+ Assist with the design, development, testing, and deployment of product features.
+ Develop distributed systems deployed in the cloud.
+ Work with a cross-functional team and understand how software is developed andmaintained at scale.
+
+ To thrive in this role, you 
+
+ Have experience in backend languages/frameworks (e.g. Ruby on Rails, Java, Python)
+ Understand software design patterns and best practices.
+ Have a passion for learning and applying technology to solve real-world problems.
+ Have experience with A W S or other cloud platforms.
+
+ A little about us
+ At Chime, we believe that everyone can achieve financial progress. We’re passionate about developing solutions and services to empower people to succeed. Every day, we start with empathy for our members and stay motivated by our desire to support them in ways that make a meaningful difference. 
+ We created Chime—a financial technology company, not a bank*-- founded on the premise that basic banking services should be helpful, transparent, and fair. Chime helps unlock the access and ability our members need to overcome the systemic barriers that block them from moving forward. By providing members with access to liquidity, rewards, and credit building, our easy-to-use tools and intuitive platforms give members the ability to have more control over their money and to take action toward achieving their financial ambitions.
+ So far, we’re well-loved by our members and proud to have helped millions of people unlock financial progress, whether they started a savings account, bought their first car or home, opened a business, or went to college. Every day, we’re inspired by our members’ dreams and successes, big and small. 
+ We’re uniting everyday people to unlock their financial progress—will you join us? 
+* Chime partners with The Bancorp Bank and Stride Bank, N. A., Members F D I C, that power the bank accounts used by Chime Members.
+ Perks once Full- Time
+
+🏢 A thoughtful hybrid work policy that combines in-office days and trips to team and company-wide events depending on location to ensure you stay connected to your work and teammates, whether you’re local to one of our offices or remote
+💻 Hybrid work perks, like Urban Sitter and Kinside for backup child, elder and/or pet care, as well as a subsidized commuter benefit
+💰 Competitive salary based on experience
+✨ 401k match plus great medical, dental, vision, life, and disability benefits
+🏝 Generous vacation policy and company-wide Take Care of Yourself Days 
+🫂 1% of your time off to support local community organizations of your choice
+🧠 Mental health support with therapy and coaching through Modern Health
+👶 16 weeks of paid parental leave for all parents and an additional 6-8 weeks for birthing parents
+👪 Access to Maven, a family planning tool, with up to $10k in reimbursement for egg freezing, fertility treatments, adoption, and more.
+🎉 In-person and virtual events to connect with your fellow Chimers—think cooking classes, guided meditations, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!
+💚 A challenging and fulfilling opportunity to join one of the most experienced teams in Fin Tech and help millions unlock financial progress
+
+ We know that great work can’t be done without a diverse team and inclusive environment. That’s why we specifically look for individuals of varying strengths, skills, backgrounds, and ideas to join our team. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.
+ We hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance, Cook County Ordinance, and consistent with Canadian provincial and federal laws. If you have a disability or special need that requires accommodation, please let us know. 
+ To learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice. 
+---------------------- 

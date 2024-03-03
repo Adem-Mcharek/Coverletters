@@ -1,0 +1,39 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the resume and job posting provided, here is a cover letter tailored to the QA Engineering Intern position at Openmesh Networks:
+
+---
+
+Adem Mcharek  
+Long Island University 1 university plaza Brooklyn NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+linkedin.com/in/adem-mcharek  
+github.com/adem-mcharek  
+
+[Date]
+
+Openmesh Networks  
+Sydney, Australia  
+
+Dear Hiring Manager,
+
+I recently discovered the QA Engineering Intern - Software Testing and Quality Control opportunity at Openmesh Networks through an unsolicited mailing that sparked my interest due to its deep involvement with revolutionary technologies in the AI, data, and blockchain spaces. As a current Bachelor in Artificial Intelligence student at Long Island University with a Cumulative GPA of 3.88/4.00 and a substantial portfolio of projects that showcase my proficiency in machine learning, data analysis, and software engineering, I am excited about the opportunity to contribute to Openmesh's mission to democratize data and shape the future of web3 infrastructure.
+
+**My Background and Hard Skills:**
+
+Through my academic and project work, I've gained extensive experience in artificial intelligence, deep learning, and cloud computing—key areas aligned with the responsibilities of this internship. Notably, my work as an AI Research Assistant allowed me to orchestrate an AI research assistant using AUTOGEN’s multi-agent system that significantly enhanced academic literature retrieval. Additionally, I have developed several projects including a PyTorch CNN for MNIST digit classification and a computer vision system using TensorFlow for hand gesture recognition, which achieved an 85% recall rate, underscoring my capability in developing efficient and effective solutions in the AI space.
+
+**My Persuasive Skills and Soft Skills:**
+
+Equally important to my technical prowess, I possess strong problem-solving skills, an ability to work effectively in team settings, and a profound interest in exploring decentralized technologies. My leadership experience as the Founder and President of the “AI Club” at Long Island University allowed me to foster a vibrant community of over 50 AI enthusiasts, demonstrating my capacity for leadership, collaborative teamwork, and community engagement. Furthermore, my participation in hackathons, including securing the People’s Choice Award at the #hackathon4Justice by the UN, showcases my keenness for hands-on learning and my aptitude for applying theoretical knowledge in practical, real-world problems.
+
+I am available to commence this exciting internship at Openmesh Networks upon completion of the current academic semester and can be reached primarily via phone at +1 929-527-4331 or email at adem.mcharek@my.liu.edu. I look forward to having the opportunity to discuss my application and how I can contribute to the pioneering initiatives at Openmesh Networks. I plan to follow up next week to ensure you have received my application and to inquire about the possibility of scheduling an interview.
+
+Thank you for considering my application. I am enthusiastic about the chance to be a part of Openmesh Networks and contribute to your innovative projects that aim to reshape the landscape of data management and accessibility.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+Please modify [Date] with the current date when sending the application.-------/n

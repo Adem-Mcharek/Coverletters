@@ -1,0 +1,58 @@
+AbelsonTaylor: Data_Science_Intern  ------- 12-Jan
+ 
+Company Overview Abelson Taylor's mission is to dream up imaginative ways to transform healthcare brands and drive measurable market results. The agency has multiple discipline teams that provide insight, creativity, and expertise that design award winning solutions for print, broadcast video, and digital that deliver results.
+---------------------- 
+Company Stage N/ A Total Funding N/ A Founded1981 Headquarters Chicago, Illinois
+---------------------- 
+Growth & Insights Headcount6 month growth↓ -4%1 year growth↑ 0%2 year growth↑ 2%
+---------------------- 
+Requirements Graduating senior (2024) or undergraduate junior (graduating 2025) Experience in Excel, Power Point, Python, statistics, and modeling Ability to work independently and reliably on a hybrid schedule
+---------------------- 
+Responsibilities Work closely with Marketing Intelligence ( M I) to develop tools, workflows, and insights Gain exposure to research collecting and synthesizing evidence into actionable strategies Shadow the M I team as they aggregate data from various online channels and coordinate internal and 3rd party tagging for brand assets Collaborate with fellow interns on a comprehensive final project
+---------------------- 
+Desired Qualifications Version control (e.g. git, github, bitbucket) Google Cloud S Q L Web analytics (e.g. Google Analytics, Salesforce) Visualization and dashboarding tools (e.g. Datorama, Tableau, matplotlib)
+---------------------- 
+Who We Are
+ The work we do is in service of helping people live healthier, fulfilling lives. We’re all health and wellness, all the time. And we pretty much started the trend. Similarly, we want your work environment to be fulfilling and encourage creativity, teamwork, and inclusiveness. We celebrate big, bold ideas, no matter where they come from in the agency. We encourage learning, listening, and curiosity to make positive changes. Here, you’ll be treated with respect and encounter open-minded people with open doors.
+ Summary 
+ Are you a 2024 college graduate or a rising college senior? Abelson Taylor is looking for 6 Chicago area-based interns to join our 2024 Summer Internship Program,nextgener A Tion.
+ Our internship program is designed to provide a fulfilling work environment that encourages creativity, teamwork, and inclusiveness. You will work with professionals at every level and gain real-world experience, giving you an edge wherever your career takes you. You will have the opportunity to work alongside teams in different departments of the agency: Copy, Art, Dose/ Production, Project Management, Social, Engagement, Media, Planning, and Data Science. You will also have the opportunity to work with fellow interns on a summer long project!
+ Data Science Intern 
+ Our Marketing Intelligence team is stacked with smart cookies. That’s because it’s on them to derive, model, and interpret the market conditions that inform our client strategies, identify business growth opportunities, and measure success.
+ Who You Are 
+
+ A graduating senior (2024) or an undergraduate junior (graduating 2025)
+ Naturally curious and able to question and think critically about data—and communicate these complex ideas effectively across audiences and work teams
+ Passionate about finding new ways to problem solve and eager to learn new skills including evaluating segmentation, research, lifetime value, and R O I 
+ A champion of diversity and an inclusive culture, who uses cultural competence to propel agency and client business forward
+ Experience in
+
+ Excel and Power Point
+ Python
+ Statistics and modeling
+
+
+ Bonus Points 
+
+ Version control (e.g. git, github, bitbucket)
+ Google Cloud
+ S Q L
+ Web analytics (e.g. Google Analytics, Salesforce)
+ Visualization and dashboarding tools (e.g. Datorama, Tableau, matplotlib)  
+
+
+
+ What You’ll Do 
+
+ Work closely with M I to develop tools, workflows, and insights to help bring to light opportunities and threats to brand success
+ Gain exposure to research collecting and synthesizing evidence into actionable strategies clients can use to  transform target audience behavior 
+ Shadow the M I team as they aggregate data from a variety of online channels including display, S E M, O L V, Native, Social, Content etc., and coordinate internal and 3rd party tagging for brand assets and collection and integration of brand data with 3rd party vendors
+ Collaborate with your fellow interns on a comprehensive, final project that you can feature in your portfolio
+
+ What You’ll Need
+
+ The ability to work independently and reliably on a hybrid schedule consisting of remote and weekly on-site visits to our Chicago office on Wednesdays!
+
+ Ready to make a difference? Apply now to start your advertising journey!
+  At Abelson Taylor we love science, art, and data. Since our beginnings in 1981, A T has been singularly focused on health, wellness and pharma products – not sneakers, beer, or cars (though we like those things, too). Besides being passionate about our purpose, we are dedicated to our people and their professional growth and fulfillment. We value a diverse and inclusive workforce and strive to bring together people with unique skills and varied backgrounds to work toward common goals. All qualified applicants will receive consideration for employment without discrimination regarding age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, veteran status, or any other characteristic protected by law. 
+---------------------- 

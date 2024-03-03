@@ -1,0 +1,16 @@
+Cadence_Design_Systems: Software_Engineering_Intern_Summer_2024  ------- 3-Feb
+ 
+Company Overview Cadence Design Systems, a recognized leader in electronic systems design, leverages over three decades of computational software expertise to deliver comprehensive solutions, including software, hardware, and I P, that transform design ideas into tangible products. The company's Intelligent System Design strategy has made it a trusted partner for the world's leading companies in diverse markets such as hyperscale computing, 5 G communications, automotive, and healthcare. Cadence's commitment to fostering a positive work environment is evident in its eight-year streak on Fortune's 100 Best Companies to Work For list, underscoring its industry leadership and competitive edge.
+---------------------- 
+Company Stage N/ A Total Funding $462.8 M Founded1988 Headquarters San Jose, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 10%2 year growth↑ 13%
+---------------------- 
+Requirements Currently enrolled in B S or M S in C S, C E, or equivalent Core java data structures and algorithms Software engineering practices and source control systems Automation techniques for broad testing of transformation
+---------------------- 
+Responsibilities Develop a Java/ Groovy program that transforms configurable processor descriptions from an internal model into alternate representations using templates with embedded language constructs Build a test harness to verify that the resulting transformations are correct
+---------------------- 
+Desired Qualifications Server based web page generation for transformation output S Q L database knowledge for recording / reporting test data
+---------------------- 
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. Working with the Cadence Tensilica X P G group to Develop a Java/ Groovy program that transforms configurable processor descriptions from an internal model into alternate representations using templates with embedded language constructs. And also build a test harness to verify that the resulting transformations are correct. Requirements: Currently enrolled in B S or M S in C S, C E, or equivalent. Core java data structures and algorithms Software engineering practices and source control systems Automation techniques for broad testing of transformation Ideally also server based web page generation for transformation output S Q L database knowledge for recording / reporting test data We’re doing work that matters. Help us solve what others can’t.
+---------------------- 

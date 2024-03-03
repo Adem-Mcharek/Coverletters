@@ -1,0 +1,42 @@
+Yext: 2024_Systems_Intern  ------- 18-Jan
+ 
+Company Overview Yext's mission is to transform the enterprise with A I search. The company offers a modern, A I-powered Answers Platform that understands natural language so that when people ask questions about a business online they get direct answers – not links.
+---------------------- 
+Company Stage Series F Total Funding $117.6 M Founded2006 Headquarters New York, New York
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 17%1 year growth↑ 16%2 year growth↑ 18%
+---------------------- 
+Requirements Pursuing a degree in Engineering, Computer Science, or a related technical field, graduating between December 2024 and August 2025 Interest in designing and building systems utilizing open source software and automation Desire to learn how cloud infrastructure, systems and software interact in a large scale environment Some experience building and configuring any Linux distribution ( Ubuntu, Debian, Cent O S, etc)1 or more years of experience with modern programing languages ( Python, Go, Rust, Java, etc) Knowledge of version control systems (git, github, bitbucket etc)
+---------------------- 
+Responsibilities Develop sophisticated systems that automate the build, test, and operation of infrastructure Work with software teams to optimize performance and increase reliability of applications Build comprehensive self service functionality for software engineers Design and build tools for monitoring and alerting to administer and comprehend increasing numbers of services
+---------------------- 
+Desired Qualifications Hands on experience using A W S, G C P, Azure or similar Deployed and configured infrastructure using tools such as Ansible, Terraform, Docker, Kubernetes, or Nomad Understanding of networking protocols and practices, such as I P, T C P, U D P, H T T P and Load Balancing Active github account; raising issues, pull requests or repos that demonstrate personal projects
+---------------------- 
+Yext ( N Y S E: Y E X T) helps organizations build digital experiences across any channel on our open and composable platform. The Yext Digital Experience Platform collects and organizes content to deliver A I-led experiences for any organization’s customers, employees, or partners. For more than 15 years, thousands of companies worldwide have trusted Yext to create seamless customer experiences at scale across search engines, websites, mobile apps, and hundreds of other digital touchpoints. Learn more at yext.com. To get the best candidate experience, please consider applying for a maximum of 2 roles within 12 months to ensure you are not duplicating efforts.
+ The Systems Engineering team works closely with software engineering teams to develop, build, test, deploy, operate, and monitor the underlying infrastructure that power the Yext cloud platform. Our responsibilities range from building, operating and securing our public cloud infrastructure to designing and building out the Open Source platforms that power the Yext software stack.
+ What You’ll Do
+
+ Develop sophisticated systems that automate the build, test, and operation of our infrastructure so that we can focus our attention on the things that matter
+ Work with talented software teams to optimize performance, and increase reliability of our applications, ensuring our infrastructure doesn’t skip a beat
+ Build comprehensive self service functionality that lets our software engineers move faster
+ Design and build our tools for monitoring and alerting to administer and comprehend increasing numbers of services
+
+ What You Have
+
+ Pursuing a degree in Engineering, Computer Science, or a related technical field, graduating between December 2024 and August 2025
+ An interest in designing and building systems utilizing open source software and automation
+ Desire to learn how cloud infrastructure, systems and software interact in a large scale environment
+ Some experience building and configuring any Linux distribution ( Ubuntu, Debian, Cent O S, etc)
+1 or more years of experience with modern programing languages ( Python, Go, Rust, Java, etc)
+ Knowledge of version control systems (git, github, bitbucket etc) 
+
+ Bonus Points
+
+ Hands on experience using A W S, G C P, Azure or similar
+ Deployed and configured infrastructure using tools such as Ansible, Terraform, Docker, Kubernetes, or Nomad
+ Understanding of networking protocols and practices, such as I P, T C P, U D P, H T T P and Load Balancing
+ An active github account; raising issues, pull requests or repos that demonstrate your personal projects
+
+# L I- C H1
+ The hourly salary at the time of hire for this position is expected to be $50/hour. Pay rates at Yext are established based on an analysis of salaries for positions with a similar level of accountability and impact in the relevant labor market. Salary levels are expected to change to reflect an employee’s job performance (results and impact) over time. Salaries at the time of hire are typically offered in the lower to middle of the above-referenced range in order to provide the opportunity to reflect performance-based increases over time. In addition to base salaries, employees at Yext are typically eligible for a comprehensive package of benefits, and successful candidates may also be eligible for equity (stock) based compensation and/or variable pay programs based on performance relative to goals and targets. Yext is committed to building an inclusive and diverse culture where every person is seen, heard and valued. We believe in equal employment opportunity and welcome employees and applicants of all races, colors, ethnicities, religions, creeds, national origins, ancestries, genetics, sexes, pregnancy or childbirth, sexual orientations, genders (including gender identity or nonbinary or nonconformity and/or status as a trans individual), ages, physical or mental disabilities, citizenships, marital, parental and/or familial status, past, current or prospective service in the uniformed services, or any characteristic protected under applicable law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. It is Yext’s policy to provide reasonable accommodations to people with disabilities as required by law. If you have a disability that requires an accommodation in completing this application, interviewing, or participating in the employee selection process, please complete this form.
+---------------------- 

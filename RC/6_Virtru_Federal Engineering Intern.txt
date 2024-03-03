@@ -1,0 +1,36 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the resume and job posting details provided, here is a structured cover letter tailored for the Federal Engineering Intern position at Virtru:
+
+---
+
+**Adem Mcharek**  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+[LinkedIn](linkedin.com/in/adem-mcharek) | [GitHub](github.com/adem-mcharek)  
+[Date]
+
+Hiring Manager  
+Virtru  
+Washington, District of Columbia  
+
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Federal Engineering Intern position at Virtru, as advertised on your careers page. My academic background in Artificial Intelligence, combined with my hands-on experience in software development and a strong passion for data privacy and security, aligns well with the responsibilities and requirements of this role. As a dedicated student at Long Island University, I have consistently engaged in projects that not only demonstrate my technical capabilities but also my commitment to impactful software development.
+
+During my tenure at Long Island University, I have actively participated in and led numerous projects that highlight my **hard skills** essential for the Federal Engineering Intern role at Virtru. I have developed a deep learning-based hand gesture recognition system utilizing TensorFlow, demonstrating my proficiency in **Python, deep learning frameworks, and computer vision**. Additionally, my project on developing an AI Research Assistant using AUTOGEN's multi-agent system for real-time academic literature retrieval underscores my **familiarity with data structures, algorithms**, and software design patterns. Notably, my work in creating a Convolutional Neural Network (CNN) in PyTorch for classifying handwritten digits showcases my solid understanding of the software development process, further augmented by my experience in web app development for real-time fruit detection.
+
+Furthermore, my **soft skills**, such as leadership, collaboration, and innovation, have been honed through my role as Founder and President of the AI Club at LIU Brooklyn. This experience has cultivated a vibrant community of over 50 AI enthusiasts, exemplifying my ability to **work collaboratively in a fast-paced environment and adapt to shifting priorities** as described in your job posting. My recognition in international competitions, including the People's Choice Award at #hackathon4Justice by the UN and securing a place in the NASA Space Apps Challenge, underscores my **action-oriented mindset and desire to learn and grow** with a team.
+
+I am incredibly excited about the opportunity to contribute to Virtru's mission of changing the rules for data privacy. My eagerness to delve into projects that develop web-based products for viewing TDF encrypted files and my interest in working within the federal sector position me as an ideal candidate for this internship. 
+
+I am available to commence the internship in Summer 2024 and can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. I plan to follow up with you in a week to discuss my application further. In the meantime, I thank you for considering my application and hope to contribute to Virtru's success, while growing professionally within your esteemed organization.
+
+Warmest regards,
+
+Adem Mcharek
+
+--- 
+
+This cover letter follows the provided structure and instructions, incorporating specifics from the resume and job posting to create a targeted and compelling narrative for the candidate's application.-------/n

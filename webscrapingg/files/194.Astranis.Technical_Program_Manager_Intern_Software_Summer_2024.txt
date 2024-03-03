@@ -1,0 +1,59 @@
+Astranis: Technical_Program_Manager_Intern_Software_Summer_2024  ------- 17-Jan
+ 
+Company Overview Astranis Space Technologies is a leader in the telecommunications industry, specializing in the creation of small, cost-effective satellites aimed at providing internet access to the 4 billion people globally who are currently without. The company's unique satellite broadband networks offer unparalleled capabilities, attracting both commercial and government customers, and have led to partnerships with top industry players like Orbits Corp, Pacific Dataport, Grupo Andesat, and Anuvu. These collaborations are not only expanding Astranis' global reach but also enabling the company to bring high-speed internet to underserved communities, demonstrating its commitment to social impact.
+---------------------- 
+Company Stage Series C Total Funding $555.4 M Founded2015 Headquarters San Francisco, California
+---------------------- 
+Growth & Insights Headcount6 month growth↓ -5%1 year growth↑ 7%2 year growth↑ 35%
+---------------------- 
+Requirements Currently pursuing a B. S. in computer science, aerospace engineering, or equivalent technical degree (e.g. physics or applied math) Strong communication skills, both internal and external facing Strong organizational skills and ability to coordinate across different tracks and groups Proven ability to work in a fast-paced environment, overcome obstacles with creative solutions, and clearly document/communicate tactical plans Ability to handle multiple tasks and prioritize Must be onsite in San Francisco, 3 days per week minimum
+---------------------- 
+Responsibilities Support programmatics from concept to completion for projects ranging from small internal R& D efforts to complete multi-spacecraft missions Running risk management processes for projects including encouraging generation of risk documentation when needed, tracking of burndown plans, and coordinating approvals of risk closure Facilitate and streamline logistics to deliver a final product meeting program requirements Plan and organize periodic internal program reviews including trending schedule, risk, and key program requirements
+---------------------- 
+Desired Qualifications Leadership in university programs, clubs, or technical projects Space system experience Hardware experience Familiarity with Smartsheet, Jira, and Confluence
+---------------------- 
+Astranis is on a mission to bridge the digital divide by connecting the four billion people worldwide who currently lack internet access. We’re doing this by building the next generation of smaller, more cost-effective spacecraft to bring the world online. 
+ As a team, we’ve launched two satellites into orbit,  signed ten commercial deals worth over $1 billion in revenue, raised over $500 million from top global investors, and recruited a team of over 300 world-class engineers. We all work out of our (legendary) San Francisco office, which was once used to build ships during the World Wars.
+ Our satellites, which operate from geostationary orbit ( G E O), weigh only 400 kg and utilize a proprietary software-defined radio payload. Each satellite can connect over two million people, and we’re very excited for the impact we’ll soon have in the Philippines, Peru, Mexico, and more! 
+ Backed by substantial funding and a passionate, collaborative team, we offer a rewarding work environment where you’ll learn and make a significant impact, no matter where you are in your career. 
+ Apply and join us on our journey towards global connectivity!
+ Technical Program Manager Intern - Software
+ Internships at Astranis typically last for twelve weeks, and are hourly roles designed for students who are currently enrolled at a four-year university. 
+
+ As our Technical Program Manager Intern, you will support software programs to ensure success and timely delivery. This will include, but is not limited to assisting program schedules, risk management, and key stakeholder interactions.
+
+ If you have already graduated from a four-year university, please apply to for our Technical Program Manager Associate position.
+
+
+ Role:
+
+ Support programmatics from concept to completion for projects ranging from small internal R& D efforts to complete multi-spacecraft missions. 
+ Running risk management processes for projects including encouraging generation of risk documentation when needed, tracking of burndown plans, and coordinating approvals of risk closure.
+ Facilitate and streamline logistics to deliver a final product meeting program requirements.
+ Plan and organize periodic internal program reviews including trending schedule, risk, and key program requirements.
+
+
+
+ Requirements:
+
+ Currently pursuing a B. S. in computer science, aerospace engineering, or equivalent technical degree (e.g. physics or applied math)
+ Strong communication skills, both internal and external facing
+ Strong organizational skills and ability to coordinate across different tracks and groups
+ Proven ability to work in a fast paced environment, overcome obstacles with creative solutions, and clearly document/communicate tactical plans
+ Ability to handle multiple tasks and prioritize
+ Must be onsite in San Francisco, 3 days per week minimum
+
+
+
+ Bonus:
+
+ Leadership in university programs, clubs, or technical projects
+ Space system experience
+ Hardware experience
+ Familiarity with Smartsheet, Jira, and Confluence 
+
+ The base pay for this position is $29.00 per hour. Base Hourly Pay $29— $29 U S D U. S. Citizenship, Lawful Permanent Residency, or Refugee/ Asylee Status Required
+( To comply with U. S. Government space technology export regulations, applicant must be a U. S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U. S. C. 1324b(a)(3))
+ 
+ Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger.
+---------------------- 

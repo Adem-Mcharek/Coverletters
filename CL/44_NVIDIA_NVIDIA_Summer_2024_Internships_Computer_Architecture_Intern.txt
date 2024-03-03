@@ -1,0 +1,43 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the resume and job posting provided, here's a tailored cover letter for the NVIDIA Summer 2024 Internships Computer Architecture Intern position:
+
+---
+
+**Adem Mcharek**  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+LinkedIn: linkedin.com/in/adem-mcharek  
+GitHub: github.com/adem-mcharek  
+
+[Date]  
+
+**NVIDIA Hiring Committee**  
+NVIDIA Corporation  
+Santa Clara, California  
+
+Dear NVIDIA Hiring Committee,
+
+I am writing to express my enthusiasm for the Summer 2024 **Computer Architecture Intern** position at NVIDIA, as advertised on your website. With a robust educational background in **Artificial Intelligence**, supplemented by hands-on experience in **advanced programming, machine learning, and computer vision**, I am eager to bring my skills to NVIDIA’s dynamic team. My academic pursuits at **Long Island University** and project initiatives have prepared me to contribute effectively to NVIDIA’s mission of advancing computer graphics, parallel processing algorithms, and the state of parallel computation.
+
+**Background & Technical Proficiency:**
+I am currently pursuing a **Bachelor's degree in Artificial Intelligence** with a **cumulative GPA of 3.88**. My academic journey has been distinguished by rigor and excellence, as evidenced by honors in significant courses such as **Machine Learning, Deep Learning, Natural Language Processing, and Cloud Computing**. My project work, notably the **implementation of a Convolutional Neural Network using PyTorch** for handwritten digit classification and the development of a **hand gesture recognition system using TensorFlow**, underscores my practical experience and deep interest in **parallel programming and machine learning**.
+
+I have developed **multi-agent systems** for AI research assistance, demonstrating my capacity for **innovation in software development**. These projects, alongside others focusing on real-time detection and web application development for various utilities, highlight my proficiency in the sought-after languages and technologies, including **Python, C++, JavaScript, and Docker**.
+
+**Adaptability & Collaborative Skills:**
+My leadership as the Founder and President of the **AI Club** at LIU Brooklyn has not only amplified my team collaboration strengths but also my ability to lead and mentor. These experiences have honed my **problem-solving abilities and innovative thinking**, crucial for **designing and improving graphics or parallel processing algorithms**.
+
+**Conclusion:**
+I am enthusiastic about the opportunity to bring my unique blend of skills and experience to the **NVIDIA team**. I am confident in my ability to contribute to designing new hardware features, crafting software for hardware simulators, and collectively pushing the boundaries of computer architecture. I look forward to the possibility of discussing my application in further detail. I am available at your convenience and will follow up next week to inquire about an opportunity to discuss my application.
+
+Thank you for considering my application. I am excited about the prospect of contributing to NVIDIA’s pioneering efforts and participating in an internship that promises hands-on experience with industry-leading computer architecture teams.
+
+Warmest regards,
+
+**Adem Mcharek**
+
+--- 
+
+This tailored cover letter addresses the specific requirements and desires listed in the NVIDIA job posting, while highlighting the candidate's relevant experiences and achievements from his resume.-------/n

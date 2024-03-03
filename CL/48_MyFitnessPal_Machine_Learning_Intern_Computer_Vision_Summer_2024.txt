@@ -1,0 +1,37 @@
+# Messagesuser: Generate the cover letter using the instructions, structured and files attached to this threat.assistant: Based on the job posting for a Machine Learning Intern position at MyFitnessPal, and the information gathered from the resume, I will now draft the cover letter following the provided structure and instructions.
+
+---
+
+Adem Mcharek  
+Long Island University  
+1 University Plaza  
+Brooklyn, NY 11201  
+
++1 929-527-4331  
+adem.mcharek@my.liu.edu  
+
+[Date]
+
+Hiring Manager  
+MyFitnessPal  
+Austin, Texas  
+
+Dear Hiring Manager,
+
+I discovered the exciting opportunity for a Machine Learning Internship specializing in Computer Vision with MyFitnessPal through your company's careers page, and I am enthusiastic about the chance to contribute to empowering users to live healthier lives through technology. With a solid academic background in Artificial Intelligence and hands-on experience in computer vision and deep learning projects, I am confident in my ability to support MyFitnessPal's mission.
+
+Currently pursuing a Bachelor's in Artificial Intelligence at Long Island University, I have excelled in courses related to Machine Learning, Deep Learning, and Computer Vision, maintaining a Cumulative GPA of 3.88/4.00. My practical experience, highlighted by projects such as the development of a Convolutional Neural Network (CNN) in PyTorch for handwriting digit classification and a hand gesture recognition system using TensorFlow, directly aligns with the responsibilities of implementing advanced image recognition and evaluation models at MyFitnessPal.
+
+In addition to my technical abilities, my involvement in founding and leading the AI Club at LIU Brooklyn has honed my persuasive and leadership skills, fostering a community of over 50 enthusiasts passionate about AI advancements. This experience has equipped me with the capability to thrive in collaborative environments, a key asset for remote internship roles.
+
+I am excited about the potential to contribute to MyFitnessPal's team, bringing my background in Python, deep learning frameworks like PyTorch, and my familiarity with AWS and Kubernetes to the table. I am available for a remote internship during Summer 2024 and can be reached at +1 929-527-4331 or via email at adem.mcharek@my.liu.edu. I will follow up next week to discuss my application and look forward to the opportunity to further discuss how I can contribute to MyFitnessPal's vision.
+
+Thank you for considering my application. I am looking forward to the possibility of contributing to driving health improvement through advanced food choice tracking technologies at MyFitnessPal.
+
+Sincerely,
+
+Adem Mcharek
+
+---
+
+Please adjust the date to the current date when sending the cover letter.-------/n

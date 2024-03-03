@@ -1,0 +1,65 @@
+Wise: Data_Science_Internship  ------- 31-Jan
+ 
+Company Overview Wise’s mission is to create a world with money without borders – moving it instantly, transparently, conveniently, and eventually for free. The company is committed to empowering money for people and businesses through their app and website that utilizes a complex engine of currencies and routes that is being designed and built by their teams across cities around the world.
+---------------------- 
+Company Stage N/ A Total Funding $1.7 B Founded2011 Headquarters London, United Kingdom
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 6%1 year growth↑ 23%2 year growth↑ 99%
+---------------------- 
+Requirements Graduating in 2025 from a Bachelors or Masters degree in Computer Science or any other S T E M subject Able to start a 10-week internship from June 24th to August 30th, 2024 Knowledge of computer science and machine learning fundamentals including data structures, algorithms, data analysis, linear algebra, and statistics Understanding principles of machine learning Good command of Python 3 and S Q L and familiarity with major data analysis and M L frameworks Self-started side project(s) that you are proud to talk about Great communication skills and the ability to articulate complex, technical concepts to a non-technical audience Curious, keen to learn, and proactive by nature Open to and value feedback in order to improve Eligible to work in the U K
+---------------------- 
+Responsibilities Work on a real data science project using up-to-date machine learning techniques Help analyze data to prioritize the most customer significant changes in the product Participate in building advanced machine learning based solutions to help scale the company Help take Wise to the next level as it scales to impact hundreds of millions more customers Have flexibility in how and where you work
+---------------------- 
+Desired Qualifications Experience in applying causal inference and/or uplift modeling techniques Experience in designing and training deep neural networks Experience in applying machine learning methods to real-world problems Familiarity with Tensor Flow 2 and/or Py Torch Familiarity with Auto M L frameworks, especially F L A M L Familiarity with Bayesian methods in machine learning Experience in web development from a previous internship
+---------------------- 
+We’re building a scalable, high performing platform for our 16 million customers. And we’re looking for Data Science Interns to join us on our mission for 10 weeks in the summer (24th June - 30th August 2024).
+ Wise is a global technology company, building the best way to move and manage the world’s money.
+ Whether you’re sending money to another country, spending money abroad, or making and receiving international business payments, Wise is on a mission to make your life easier and save you money. 
+ Since it was founded in 2010, 5,000+ people work at Wise, from 125 nationalities, in 17 global locations. Check out how it’s like working here. 
+ You’ll be part of Wise’s global mission to build an open, fair, and human financial system - to make money without borders the new norm. Because people without borders need money without borders.
+ How you’ll contribute to our team of data scientists: 
+
+ You’ll work on a real data science project that matters to us, using up-to-date machine learning techniques. We can’t say what project yet, but your internship will be centred around this.
+ You will help analysing data that will help us prioritise the most customer significant changes in the product
+ Participate in building the most advanced machine learning based solutions to help us scale
+ Help take Wise to the next level as we scale to impact 100’s of millions more customers
+ You will have flexibility in how and where you work. We understand everyone needs a little something different - so we’ll do our best to make it happen, but we recommend coming to the office as much as possible during your internship!
+
+ What does it take? These things are a must:
+
+ You are graduating in 2025 from a Bachelors or Masters degree. This might be in  Computer Science (or any other S T E M subject)
+ You are able to start a 10 weeks internship job from June 24th - 30th August 2024
+ Knowledge of computer science and machine learning fundamentals including data structures, algorithms, data analysis, linear algebra and statistics
+ Understanding principles of machine learning
+ You should have a good command of Python 3 and S Q L and be familiar with major data analysis and M L frameworks
+ A self-started side project(s) that you are proud to talk about
+ Great communication skills and the ability to articulate complex, technical concepts to a non-technical audience
+ Curious, keen to learn andproactiveby nature
+ You are open to and value feedback in order to improve
+ Eligible to work in the U K
+
+ And these would be great, but aren’t essential:
+
+ Experience in applying causal inference and/or uplift modeling techniques, for example with Do Why and Econ M L
+ Experience in designing and training deep neural networks
+ Experience in applying machine learning methods to real-world problems
+ Familiarity with Tensor Flow 2 and/or Py Torch
+ Familiarity with Auto M L frameworks, especially F L A M L
+ Familiarity with Bayesian methods in machine learning
+ Experience in web development, from a previous internship
+
+... Don’t worry we don’t expect you to know everything!
+ What you get back:
+
+ Have a real impact. Solve real customer problems
+ Lots of team activities
+ Salary from £42,000
+ The possibility of getting an offer to come back to Wise once you graduate!
+ Fun offices with social activities - have a sneak peak of our London office!
+
+ Annual Salary ( Pro Rata)£42,000—£42,000 G B P We’re people without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. We’re proud to have a truly international team, and we celebrate our differences.
+ Every Wiser should feel that they can be themselves at work. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to share their contributions towards mission zero and able to progress in their careers.
+ Having diverse teams that reflect our diverse customer base helps us build a better product. We can be more creative and empathetic to our customer’s needs and life experiences and makes sure we leave no-one behind on our journey to mission-zero.
+ If you want to find out more about what it’s like to work at Wise visit  Wise. Jobs.
+ Keep up to date with life at Wise by following us on  Linked In and  Instagram.
+---------------------- 

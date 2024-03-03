@@ -1,0 +1,102 @@
+Trail_of_Bits: Summer_Internship_2024  ------- 29-Jan
+ 
+Company Overview Trail of Bits stands out as a leading security firm, combining high-end research with practical attacker mentality to fortify code and reduce risk for globally targeted organizations. The company's commitment to its employees is evident in its recognition as one of the Best Places to Work in New York City across three categories in 2021 and 2022, including Best Small Companies and Best Paying Companies. This recognition underscores Trail of Bits' supportive culture, competitive remuneration, and comprehensive benefits, making it an attractive workplace in the tech industry.
+---------------------- 
+Company Stage Seed Total Funding $4.1 M Founded2012 Headquarters Brooklyn, New York
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 7%1 year growth↑ 7%2 year growth↑ 61%
+---------------------- 
+Requirements Currently or recently enrolled in an undergraduate or graduate degree program Knowledge of C/ C++, Rust, Go, Solidity, Python, Java Script, O Caml, or Haskell Experience in systems programming, program analysis, reverse engineering, application and software security assessment, low-level or cloud-native software, cryptography, and cryptanalysis Proficient debugging and vulnerability analysis skills with reverse-engineering experience Self-motivation, project-driven focus, and eagerness to learn
+---------------------- 
+Responsibilities Solving security problems Performing research Developing tools/resources for the community Sharing insights with the world Collaborating with top-tier experts in a dynamic, forward-thinking environment
+---------------------- 
+Desired Qualifications Experience in A I/ M L security Experience in Technical Marketing
+---------------------- 
+Who We Are
+ Founded in 2012 by 3 expert hackers with no investment capital, Trail of Bits is the premier place for security experts to boldly advance security and address technology’s newest and most challenging risks. It has helped secure some of the world’s most targeted organizations and devices. Our combination of novel research with practical solutions reduces the security risks that our clients face from emerging technologies. Our work helps drive the security industry and the public understanding of the technology underlying our world.
+ 
+ Cybersecurity preparedness is a moving target. Companies like ours are the tip of the spear in the fight against attackers. Our research-based and custom-engineering approach ensures that our client’s capabilities are at the forefront of what’s available. For companies and technologies that live and die by their security, a proactive, tailored approach is required to keep one step ahead of attackers.
+ 
+ Democratizing security information is essential. As part of our business, we provide ongoing informational support through blogs, whitepapers, newsletters, meetups, and open-source tools. The more the community understands security, the more they’ll understand why a company like ours is so unique and valuable. Role Overview
+ Elevate your security expertise by joining Trail of Bits’ summer internship program. As a leading cybersecurity research and consulting firm, our team has been instrumental in pioneering innovative software projects used by millions globally. We are trusted by top companies like Epic Games, Google, Microsoft, Zoom, and others to address the most sophisticated security challenges. This internship allows you to solve security problems, perform research, and develop tools/resources for the community. Share your insights with the world and collaborate with top-tier experts in a dynamic, forward-thinking environment.
+ Opportunities
+
+ Application Security Track: Deep dive into code review, develop anti- D R M gaming cheats, exploit kernel vulnerabilities, and enhance isolation strategies. Innovate in vulnerability discovery and refine security tools with modern engineering practices.
+ Cryptography Track: Engage in cryptography review to ensure robust privacy measures. Collaborate on groundbreaking academic research and develop new cryptanalysis tools.
+ Blockchain Track: Gain hands-on experience working with our known tools like Slither and Echidna by providing bug fixes and tool improvements. Shadow our security engineers on professional audits and learn from industry experts from all facets of blockchain applications, from smart contracts to off-chain components.
+ Machine Learning / A I Track: Develop and refine tools that enhance the safety, security, and robustness of M L/ A I systems. Engage in A I Risk assessments by gaining experience in identifying and mitigating risks in the rapidly evolving M L/ A I sector.
+ Research Track: Tackle the forefront of reverse engineering, A I/ M L security, and more. Work alongside mentors on impactful projects, leveraging modern software engineering to enhance our security arsenal.
+ Non- Engineering Roles: Occasional opportunities arise in non-engineering roles such as Technical Marketing, offering insights into the business side of cybersecurity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Internship focus areas change yearly, depending on project availability, required skills, and business demands.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ What You’ll Bring
+
+ Currently or recently enrolled in an undergraduate or graduate degree program.
+ Knowledge of C/ C++, Rust, Go, Solidity, Python, Java Script, O Caml, or Haskell
+ Experience in the team’s domain of expertise, which may be any one of the following: systems programming, program analysis, reverse engineering, application and software security assessment, low-level or cloud-native software, cryptography, and cryptanalysis
+ Proficient debugging and vulnerability analysis skills with reverse-engineering experience
+ Self-motivation, project-driven focus, and eagerness to learn.
+ Prepare to share your journey through presentations and blog contributions. Click here to read about what our previous interns have worked on!
+
+ Application Journey:
+
+ Online Application: Share your story, your passion for security, and why Trail of Bits is your choice.
+ Team Interviews: Engage in a multi-stage interview, including a technical phone screen and discussions with our security team.
+ Personalized Internship Plan: We tailor the internship to align with your academic schedule and career aspirations, ensuring a mutually beneficial and enriching experience.
+
+ Application Deadline:  Friday, February 9, 2024
+ Join us at Trail of Bits this summer for an internship that transcends conventional learning and immerses you in the heart of cybersecurity innovation. Apply now!
+ Benefits, Perks & Wellness
+ Trail of Bits is our people, not a place. With over 100+ employees working from every time zone across the globe, our remote-first culture is built on autonomy and trust (and backed by smile-worthy benefits) for full-time employees:
+ Empowered Living:
+
+ Competitive salary complemented by performance-based bonuses.
+ Fully company-paid insurance packages, including health, dental, vision, disability, and life.
+ A solid 401(k) plan with a 5% match of your base salary.
+20 days of paid vacation with flexibility for more, adhering to jurisdictional regulations.
+
+ Nurturing New Beginnings:
+
+4 months of parental leave to cherish the arrival of new family members.
+ $5,000 relocation assistance for moves to New York City, supporting your transition.
+
+ Work & Life Enrichment:
+
+ $1,000 Working-from- Home stipend to create a comfortable and productive home office.
+ Annual $750 Learning & Development stipend for continuous personal and professional growth.
+ Company-sponsored all-team celebrations, including travel and accommodation, to foster community and recognize achievements.
+
+ Community Impact:
+
+ Philanthropic contribution matching up to $2,000 annually.
+ Opportunity to participate in Project Wren, promoting environmental responsibility and carbon footprint offset.
+
+ Dedication to Diversity, Equity, Inclusion & Belonging ( D E I B)
+
+ Trail of Bits is a community of innovators, risk-takers, and trailblazers who celebrate individual differences and recognize that unique perspectives make us stronger, smarter, and more successful. We actively seeks applicants who can bring a variety of experiences, perspectives, and backgrounds to the team. We provide equal employment opportunities to all employees and applicants for employment without regard to race, color, ancestry, national origin, gender, sex, pregnancy, pregnancy-related condition, sexual orientation, marital status, religion, age, disability, qualified handicap, gender identity, results of genetic testing, military status, veteran status, or any other characteristic protected by applicable law. Our team values diversity in experience and backgrounds—we do our best work when we create space for different voices and perspectives. Whatever unique experiences or skill sets you bring, we look forward to learning from each other.
+---------------------- 

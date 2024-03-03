@@ -1,0 +1,16 @@
+Western_Digital: Internship_SSD_Memory_System_Engineering  ------- 1-Feb
+ 
+Company Overview Western Digital’s mission is to be at the cusp of innovation and to push the boundaries of innovation to make what you think was once impossible, possible. The company has been at the forefront of innovation with the first hard drives and now continues to work on advancements in 3 D N A N D along with their reliable data solutions business. 
+---------------------- 
+Company Stage N/ A Total Funding $932 M Founded2014 Headquarters San Jose, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 0%1 year growth↑ 1%2 year growth↑ 5%
+---------------------- 
+Requirements B S/ M S in Computer Science/ Engineering, Electrical Engineering, or other related fields Proficient programming skill in Python and/or Java Knowledge of Object Oriented Programming Knowledge of electronic hardware design Self-motivated and self-directed Excellent written and verbal communication and interpersonal skills
+---------------------- 
+Responsibilities Participate in the development of Flash Memory Testing Platform Work with System Design Engineers to design, develop, troubleshoot and debug a fully integrated test platform Develop software programs, operating systems, databases, web G U I applications, networking, and tester hardware
+---------------------- 
+Desired Qualifications Current student pursuing a B S or M S in Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Physics, or a related field Graduating December 2024 and beyond
+---------------------- 
+Job Description We are seeking a highly motivated college student to join our internship program in the summer of 2024. The candidate will participate in the development of Flash Memory Testing Platform for Western Digital’s Enterprise-grade S S D. In this role, you will work with System Design Engineers to design, develop, troubleshoot and debug a fully integrated test platform including software programs, operating systems, databases, web G U I applications, networking, and tester hardware. Current student pursuing a B S or M S in Computer Science, Computer Engineering, Electrical Engineering, Mechanical Engineering, Physics, or a related field and graduating December 2024 and beyond are encouraged to apply. Qualifications B S/ M S in Computer Science/ Engineering, Electrical Engineering, or other related fields Proficient programming skill in Python and/or Java highly preferred Knowledge of Object Oriented Programming Knowledge of electronic hardware design Self-motivated and self-directed Excellent written and verbal communication and interpersonal skills
+---------------------- 

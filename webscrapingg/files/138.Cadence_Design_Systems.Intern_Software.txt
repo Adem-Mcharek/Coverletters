@@ -1,0 +1,16 @@
+Cadence_Design_Systems: Intern_Software  ------- 26-Jan
+ 
+Company Overview Cadence Design Systems, a recognized leader in electronic systems design, leverages over three decades of computational software expertise to deliver comprehensive solutions, including software, hardware, and I P, that transform design ideas into tangible products. The company's Intelligent System Design strategy has made it a trusted partner for the world's leading companies in diverse markets such as hyperscale computing, 5 G communications, automotive, and healthcare. Cadence's commitment to fostering a positive work environment is evident in its eight-year streak on Fortune's 100 Best Companies to Work For list, underscoring its industry leadership and competitive edge.
+---------------------- 
+Company Stage N/ A Total Funding $462.8 M Founded1988 Headquarters San Jose, California
+---------------------- 
+Growth & Insights Headcount6 month growth↑ 1%1 year growth↑ 10%2 year growth↑ 13%
+---------------------- 
+Requirements Currently enrolled in Bachelors or Masters program majoring in Computer Science (or related field) and graduating in Winter 2024 or Spring/ Summer 2025 Skills and experience in C++ and Python development Functional knowledge of Node J S and Apache Airflow development Excellent verbal and written communication skills Strong curiosity and a passion for learning
+---------------------- 
+Responsibilities Developing analytics applications on Cadence J E D A I platform Knowledge in areas of circuit simulation, M L, data processing will be useful
+---------------------- 
+Desired Qualifications Knowledge in areas of circuit simulation, M L, data processing
+---------------------- 
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. Job Description : The Allegro Applications Team is looking for an intern to join them this summer. As a member of this team, you’ll gain hands on experience working with enterprise level software and solving real world problems.  This team has a wide range of responsibilities, including application G U Is, A P I integration, enhancing/maintaining application infrastructure, and much more.  You’ll have the opportunity to work in one or more of these areas, all while learning about the software development process and what it looks like to be a software developer. Key Responsibilities: The person will be part of team responsible for developing analytics applications on Cadence J E D A I platform. Knowledge in areas of circuit simulation, M L, data processing will be useful. Requirements: Currently enrolled in Bachelors or Masters program majoring in Computer Science (or related field) and graduating in Winter 2024 or Spring/ Summer 2025. Skills and experience in C++ and Python development are necessary. Functional knowledge of Node J S and Apache Airflow development would be desired Excellent verbal and written communication skills. Strong curiosity and a passion for learning. We’re doing work that matters. Help us solve what others can’t.
+---------------------- 
