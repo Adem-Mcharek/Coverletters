@@ -21,7 +21,6 @@ def clean_role(input_string):
     return cleaned_string
 
 def Scraper(company,role,link,posted,index):
-
     html_text = requests.get(link).text
     soup = BeautifulSoup(html_text,'lxml')
 
